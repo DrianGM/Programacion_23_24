@@ -1,17 +1,17 @@
-package u1.tarea_2;
+package u1.tarea_3;
 
 import java.util.Scanner;
 
-public class ejercicio_3 {
+public class ejercicio_3  {
     public static void main(String[] args) {
         System.out.println("Ingresa el primer número: ");
         Scanner teclado = new Scanner(System.in);
-        int numero1 = teclado.nextInt();
+        double a = teclado.nextDouble();
         System.out.println("Ingresa el segundo número: ");
         Scanner teclado2 = new Scanner(System.in);
-        int numero2 = teclado2.nextInt();
-        int resultado = numero1/numero2;
+        double b = teclado2.nextDouble();
+        double c = (a/b);
         System.out.println("El cociente de la división es = ");
-        System.out.print(resultado);
+        System.out.print(c);
     }
 }
