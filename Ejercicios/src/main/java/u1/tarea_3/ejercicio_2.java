@@ -11,7 +11,6 @@ public class ejercicio_2 {
         Scanner teclado2 = new Scanner(System.in);
         short b = teclado2.nextShort();
         short c = (short) (b-a);
-        System.out.println("Este año tu edad será = ");
-        System.out.print(c);
+        System.out.println("Este año tu edad será = "+c);
     }
 }

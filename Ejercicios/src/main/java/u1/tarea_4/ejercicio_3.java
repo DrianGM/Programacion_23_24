@@ -13,7 +13,7 @@ public class ejercicio_3 {
         double nota3 = scanner.nextDouble();
         double media = (nota1 + nota2 + nota3) / 3;
         int mediaentera = (int) media;
-        System.out.println("La parte entera de la media es: "+mediaentera);
+        System.out.println("La parte entera de la media es: " + mediaentera);
     }
 }
 
