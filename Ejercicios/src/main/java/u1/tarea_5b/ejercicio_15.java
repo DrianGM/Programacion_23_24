@@ -98,6 +98,12 @@ public class ejercicio_15 {
             case "no":
                 break;
         }
-        System.out.println(puntos);
+        if (puntos <= 10) {
+            System.out.println("¡Enhorabuena! tu pareja parece ser totalmente fiel.");
+        } else if (puntos >= 11 && puntos <= 22) {
+            System.out.println("Quizás exista el peligro de otra persona en su vida o en su mente, aunque seguramente será algo sin importancia. No bajes la guardia.");
+        } else {
+            System.out.println("Tu pareja tiene todos los ingredientes para estar viviendo un romance con otra persona. Te aconsejamos que indagues un poco más y averigües que es lo que está pasando por su cabeza.");
+        }
     }
 }

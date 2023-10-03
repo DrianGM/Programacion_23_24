@@ -14,6 +14,6 @@ public class ejercicio_6 {
         Scanner teclado3 = new Scanner(System.in);
         double c = teclado3.nextDouble();
         double x = (a + b + c) / 3;
-        System.out.println("El resultado de la media es : " + x);
+        System.out.printf("El resultado de la media es : +%6f", x);
     }
 }

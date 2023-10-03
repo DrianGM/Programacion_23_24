@@ -16,3 +16,5 @@ public class ejercicio_6 {
         }
     }
 }
+
+//final double gravedad = 9.8;
