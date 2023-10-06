@@ -4,18 +4,18 @@ import java.util.Scanner;
 
 public class ejercicio_18 {
     public static void main(String[] args) {
-        System.out.println("Por favor, introduzca la primera nota : ");
         Scanner teclado = new Scanner(System.in);
+        System.out.println("Por favor, introduzca la primera nota : ");
         double a = teclado.nextDouble();
         System.out.println("Por favor, introduzca la segunda nota : ");
-        Scanner teclado2 = new Scanner(System.in);
-        double b = teclado2.nextDouble();
+        double b = teclado.nextDouble();
         double media = (a + b) / 2;
         if (media >= 5) {
             System.out.println("El alumno está aprobado. Nota media : " + media);
         } else {
+            Scanner teclado2 = new Scanner(System.in);
             System.out.println("¿Cuál ha sido el resultado de la recuperación? (apto/no apto)");
-            String recu = teclado.next();
+            String recu = teclado2.nextLine();
             System.out.println(recu);
             switch (recu) {
                 case "apto":

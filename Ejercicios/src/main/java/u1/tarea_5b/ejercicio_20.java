@@ -25,24 +25,26 @@ public class ejercicio_20 {
                 break;
         }
         System.out.println("Introduzca el código promocional (nopro, mitad, meno5 o 5porc):");
+        double precioIVA = base * ivaNum / 100;
+        double sinDescuento = base + precioIVA;
+        double descuento = 0;
         String codigo = teclado.next();
         switch (codigo) {
             case "nopro":
-                System.out.println("El lunes a primera hora toca Programación");
                 break;
             case "mitad":
-                System.out.println("El martes a primera hora toca Programación");
+                descuento = sinDescuento / 2;
                 break;
             case "meno5":
-                System.out.println("El miercoles a primera hora toca Formación y Orientación Laboral");
+                descuento = 5;
                 break;
             case "5porc":
-                System.out.println("El miercoles a primera hora toca Formación y Orientación Laboral");
+                descuento = sinDescuento * 0.05;
                 break;
             default:
-                System.out.println("No ha ingresado un día de la semana laboral con mayúscula inicial");
+                System.out.println("No ha ingresado un un código válido.");
                 break;
         }
-
+        System.out.println("El precio final es de : " + (sinDescuento - descuento) + " euros.");
     }
 }
