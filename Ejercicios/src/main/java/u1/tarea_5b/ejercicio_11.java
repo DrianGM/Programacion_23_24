@@ -187,3 +187,6 @@ public class ejercicio_11 {
         System.out.println("¡El cuestionario ha acabado! Tu puntuación final ha sido : " + puntos + " puntos.");
     }
 }
+
+//if (respuesta.equals("b"))
+//puntos++
