@@ -14,7 +14,10 @@ public class ejercicio_3 {
         } else {
             System.out.println("La variable vale " + par + ", es impar.");
         }
+        int par2 = 0;
+        System.out.println("Ingrese otro número entero :");
+        int num2 = teclado.nextInt();
+        par2 = num2 % 2 == 0 ? 1 : 0;
+        System.out.println(par2);
     }
 }
-
-

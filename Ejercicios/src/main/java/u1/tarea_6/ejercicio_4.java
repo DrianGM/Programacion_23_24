@@ -12,10 +12,16 @@ public class ejercicio_4 {
         byte menor = 0;
         if (num1 > num2) {
             menor = num2;
-            System.out.println(menor);
+            System.out.println("El menor es " + menor);
         } else {
             menor = num1;
-            System.out.println(menor);
+            System.out.println("El menor es " + menor);
         }
+        System.out.println("Ingrese otro primer número :");
+        byte num3 = teclado.nextByte();
+        System.out.println("Ingrese otro segundo número :");
+        byte num4 = teclado.nextByte();
+        byte menor2 = num3 > num4 ? num4 : num3;
+        System.out.println("El menor es " + menor2);
     }
 }
