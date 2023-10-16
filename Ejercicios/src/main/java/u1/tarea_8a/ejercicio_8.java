@@ -7,8 +7,12 @@ public class ejercicio_8 {
         Scanner teclado = new Scanner(System.in);
         System.out.println("Ingrese un número.");
         int num = teclado.nextInt();
+        int total = num - 1;
+        int calculo = num;
+        while (total != 0) {
+            calculo = calculo * total;
+            total--;
+        }
+        System.out.println(calculo);
     }
 }
-
-
-//calcular factorial de num (5x4x3x2x1)
