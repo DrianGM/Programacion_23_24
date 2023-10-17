@@ -7,15 +7,11 @@ public class ejercicio_2 {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese un número: ");
         int numero = scanner.nextInt();
-
-        System.out.println("Número | Cuadrado | Cubo");
-        System.out.println("--------------------------");
-
-        for (int i = numero; i < numero + 5; i++) {
-            int cuadrado = i * i;
-            int cubo = i * i * i;
-            System.out.printf("%6d | %8d | %4d%n", i, cuadrado, cubo);
+        int contador = 0;
+        while (contador != 5) {
+            System.out.println(numero + " / " + numero * numero + " / " + numero * numero * numero);
+            numero++;
+            contador++;
         }
     }
 }
-

@@ -23,7 +23,7 @@ public class ejercicio_15 {
                 contador++;
             }
         }
-        System.out.println("Entre 1 y "+max+" hay "+contador+" números primos.");
+        System.out.println("Entre 1 y " + max + " hay " + contador + " números primos.");
     }
 }
 
