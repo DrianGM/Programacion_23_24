@@ -2,16 +2,12 @@ package U1_intro_bucles_condicionales.tarea_8a;
 
 public class ejercicio_11 {
     public static void main(String[] args) {
-
-        int n = 1;
-        int cuenta = 1;
-        while (n != 11) {
-            while (cuenta != 11) {
-                System.out.println(n + " * " + cuenta + " = " + cuenta * n);
-                cuenta++;
+        int num =0;
+        for (int i=1;i<=10;i++){
+            num++;
+            for (int j=1;j<=10;j++) {
+                System.out.println(num+" * "+j+" = "+num*j);
             }
-            cuenta = 1;
-            n++;
         }
     }
 }

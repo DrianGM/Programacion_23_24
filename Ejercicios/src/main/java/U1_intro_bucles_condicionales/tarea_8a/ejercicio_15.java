@@ -6,12 +6,12 @@ public class ejercicio_15 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         System.out.println("Ingrese un número.");
+        int num = teclado.nextInt();
         int contador = 0;
-        int divisores = 0;
-        int max = teclado.nextInt();
-        for (int num = 1; num <= max; num++) {
-            for (int i = 1; i <= num; i++) {
-                int resultado = num % i;
+        for (int i = 1; i <= num; i++) {
+            int divisores=0;
+            for (int j = 1; j <= i; j++) {
+                int resultado = i % j;
                 if (resultado == 0) {
                     divisores++;
                 }
@@ -23,9 +23,6 @@ public class ejercicio_15 {
                 contador++;
             }
         }
-        System.out.println("Entre 1 y " + max + " hay " + contador + " números primos.");
+        System.out.println("Entre 1 y " + num + " hay " + contador + " números primos.");
     }
 }
-
-
-//ESTA SIN TERINAAAAAAAAAAAAAAAAAAAAAAAAAR

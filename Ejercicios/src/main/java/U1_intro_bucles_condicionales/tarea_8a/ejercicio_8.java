@@ -13,6 +13,6 @@ public class ejercicio_8 {
             calculo = calculo * total;
             total--;
         }
-        System.out.println(calculo);
+        System.out.println("Su factorial es :"+calculo);
     }
 }

@@ -15,19 +15,24 @@ public class ejercicio_8 {
         int hora2 = teclado.nextInt();
         while (dia1 < 1 || dia1 > 7) {
             System.out.println("El dia 1 es erróneo, ingreselo de nuevo. (1-7)");
+            dia1= teclado.nextInt();
         }
         while (dia2 < 1 || dia2 > 7) {
             System.out.println("El dia 2 es erróneo, ingreselo de nuevo. (1-7)");
+            dia2= teclado.nextInt();
         }
         while (hora1 < 1 || hora1 > 24) {
             System.out.println("La hora 1 es erróneo, ingreselo de nuevo. (1-24)");
+            hora1= teclado.nextInt();
         }
         while (hora2 < 1 || hora2 > 24) {
             System.out.println("La hora 2 es erróneo, ingreselo de nuevo. (1-24)");
+            dia1= teclado.nextInt();
         }
-        while (dia2 > dia1) {
+        while (dia2 < dia1) {
             System.out.println("El dia 2 es erróneo, ingreselo de nuevo. (1-7)");
+            dia2= teclado.nextInt();
         }
-
     }
 }
+//WORK IN PROGRESS

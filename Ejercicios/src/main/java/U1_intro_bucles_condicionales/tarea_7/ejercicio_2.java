@@ -11,9 +11,9 @@ public class ejercicio_2 {
         int nivel = teclado.nextInt();
         System.out.println("Ingrese la cantidad de ingresos :");
         int ingresos = teclado.nextInt();
-        Boolean jasp = false;
-        if (edad <= 28 && nivel > 3 && ingresos > 28000) {
-            jasp = true;
-        }
+        Boolean jasp = (edad <= 28 && nivel > 3 && ingresos > 28000);
+        System.out.println(jasp);
     }
 }
+
+

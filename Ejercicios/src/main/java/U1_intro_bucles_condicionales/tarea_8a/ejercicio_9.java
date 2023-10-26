@@ -4,23 +4,26 @@ import java.util.Scanner;
 
 public class ejercicio_9 {
     public static void main(String[] args) {
-        Scanner teclado = new Scanner(System.in);
-        System.out.println("Ingrese la altura del árbol en centímetros :");
-        int altura1 = teclado.nextInt();
-        int altura2 = 0;
-        while (altura1 != -1) {
-            if (altura1 > altura2) {
-                altura2 = altura1;
-                System.out.println("Ingrese la altura del árbol en centímetros :");
-                altura1 = teclado.nextInt();
-            } else {
-                System.out.println("Ingrese la altura del árbol en centímetros :");
-                altura1 = teclado.nextInt();
+        Scanner scanner = new Scanner(System.in);
+        int arbolActual = 1;
+        int numMasAlto = 0;
+        int alturaMasAlta = 0;
+        while (true) {
+            System.out.println("Ingrese la altura en cm del árbol " + arbolActual + " (-1 para finalizar): ");
+            int altura = scanner.nextInt();
+            if (altura == -1) {
+                break;
             }
+            if (altura > alturaMasAlta) {
+                alturaMasAlta = altura;
+                numMasAlto = arbolActual;
+            }
+            arbolActual++;
         }
-        System.out.println("El árbol más alto mide " + altura2);
+        if (alturaMasAlta > 0) {
+            System.out.println("El árbol más alto es el árbol " + numMasAlto + " con una altura de " + alturaMasAlta + " cm.");
+        } else {
+            System.out.println("No se ha ingresado ninguna altura válida.");
+        }
     }
 }
-
-
-//ESTA SIN TERMINAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAR

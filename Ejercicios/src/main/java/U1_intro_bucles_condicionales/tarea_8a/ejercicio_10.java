@@ -4,17 +4,15 @@ import java.util.Scanner;
 
 public class ejercicio_10 {
     public static void main(String[] args) {
-        Scanner teclado = new Scanner(System.in);
         System.out.println("Ingrese un número del 1 al 10 : ");
-        int n = teclado.nextInt();
-        while (n > 10 || n < 1) {
+        Scanner sc = new Scanner(System.in);
+        int num = sc.nextInt();
+        while (num<1 || num>10){
             System.out.println("Ese número no entra dentro del rango, por favor, ingrese un número del 1 al 10 : ");
-            n = teclado.nextInt();
+            num = sc.nextInt();
         }
-        int cuenta = 1;
-        while (cuenta != 11) {
-            System.out.println(n + " * " + cuenta + " = " + cuenta * n);
-            cuenta++;
+        for (int i = 1; i <= 10; i++){
+            System.out.println(num+" * "+i+" = "+num*i);
         }
     }
 }

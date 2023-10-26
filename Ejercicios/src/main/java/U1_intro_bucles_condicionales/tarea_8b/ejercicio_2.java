@@ -9,7 +9,7 @@ public class ejercicio_2 {
         int numero = scanner.nextInt();
         int contador = 0;
         while (contador != 5) {
-            System.out.println(numero + " / " + numero * numero + " / " + numero * numero * numero);
+            System.out.println(numero + " | " + numero * numero + " | " + numero * numero * numero);
             numero++;
             contador++;
         }

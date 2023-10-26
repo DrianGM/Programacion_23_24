@@ -4,11 +4,10 @@ import java.util.Scanner;
 
 public class ejercicio_1 {
     public static void main(String[] args) {
-        int num = 1;
-        while (num != 0) {
-            Scanner teclado = new Scanner(System.in);
-            System.out.println("Ingrese un número.");
-            num = teclado.nextInt();
+        Scanner teclado = new Scanner(System.in);
+        System.out.println("Ingrese un número.");
+        int num = teclado.nextInt();
+        while (num!=0){
             if (num % 2 == 0) {
                 System.out.println("Es par.");
             } else {
@@ -20,6 +19,7 @@ public class ejercicio_1 {
                 System.out.println("Es negativo.");
             }
             System.out.println("El cuadrado de " + num + " es " + num * num);
+            num= teclado.nextInt();
         }
     }
 }
