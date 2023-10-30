@@ -1,4 +1,4 @@
-package org.velazquez.U1_intro_bucles_condicionales.Practica;
+package org.velazquez.U1_intro_bucles_condicionales.Practica_2;
 
 public class vacio_1b {
     public static void main(String[] args) {
