@@ -6,27 +6,28 @@ public class ejercicio_6 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Ingrese la altura de la pirámide: ");
-        int altura = scanner.nextInt();
+        int n = scanner.nextInt();
         System.out.print("Introduce el carácter de la pirámide: ");
         String caracter = scanner.next();
-        for (int i = 1; i <= altura; i++) {
-            for (int j = altura - i; j > 0; j--) {
-                System.out.print(" ");
+        for (int i=1;i<=n;i++){
+            for (int j=i;j<n;j++){
+                System.out.print("  ");
             }
-            if (i == 1 || i == altura) {
-                for (int k = 1; k <= 2 * i - 1; k++) {
-                    System.out.print(caracter);
+            for (int j=1;j<i;j++){
+                if (i==n || j==1){
+                    System.out.print(caracter+" ");
+                } else {
+                    System.out.print("  ");
                 }
-            } else {
-                // Caracter solo en el primer y último lugar de la fila, el resto son espacios
-                System.out.print(caracter);
-                for (int k = 1; k <= 2 * i - 3; k++) {
-                    System.out.print(" ");
+            }
+            for (int j=1;j<=i;j++){
+                if (j==i ||i==n){
+                    System.out.print(caracter+" ");
+                } else {
+                    System.out.print("  ");
                 }
-                System.out.print(caracter);
             }
             System.out.println();
         }
     }
 }
-
