@@ -1,11 +1,11 @@
-package org.velazquez.U1_intro_bucles_condicionales.Practica;
+package org.velazquez.U1_intro_bucles_condicionales.Practica_bucles;
 
 public class cartas_aleatorias {
     public static void main(String[] args) {
         int numeroMax = 4;
         int numeroMin = 1;
         int palo = (int) (Math.random() * ((numeroMax + 1) - numeroMin)) + numeroMin;
-        switch (palo){
+        switch (palo) {
             case 1:
                 System.out.println("Palo - picas");
                 break;
@@ -21,7 +21,7 @@ public class cartas_aleatorias {
         }
         numeroMax = 13;
         int cartas = (int) (Math.random() * ((numeroMax + 1) - numeroMin)) + numeroMin;
-        switch (cartas){
+        switch (cartas) {
             case 1:
                 System.out.println("Carta : A");
                 break;

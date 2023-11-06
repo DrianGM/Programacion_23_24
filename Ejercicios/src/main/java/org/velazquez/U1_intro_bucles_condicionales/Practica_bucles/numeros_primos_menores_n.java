@@ -1,4 +1,4 @@
-package org.velazquez.U1_intro_bucles_condicionales.Practica;
+package org.velazquez.U1_intro_bucles_condicionales.Practica_bucles;
 
 import java.util.Scanner;
 

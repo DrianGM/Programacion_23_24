@@ -1,4 +1,4 @@
-package org.velazquez.U2_depuracion.practica_depuracion;
+package org.velazquez.U2_depuracion.Practica_depuracion;
 
 import java.util.Scanner;
 
