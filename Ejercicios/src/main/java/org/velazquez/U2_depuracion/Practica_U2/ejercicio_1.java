@@ -1,4 +1,4 @@
-package org.velazquez.U2_depuracion.Practica_depuracion;
+package org.velazquez.U2_depuracion.Practica_U2;
 
 public class ejercicio_1 {
     public static void main(String[] args) {

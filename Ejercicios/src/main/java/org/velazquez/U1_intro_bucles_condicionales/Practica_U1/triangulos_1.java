@@ -1,4 +1,4 @@
-package org.velazquez.U1_intro_bucles_condicionales.Practica_bucles;
+package org.velazquez.U1_intro_bucles_condicionales.Practica_U1;
 
 public class triangulos_1 {
     public static void main(String[] args) {
