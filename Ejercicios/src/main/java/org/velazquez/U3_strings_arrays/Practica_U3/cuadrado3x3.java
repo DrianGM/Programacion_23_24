@@ -1,4 +1,4 @@
-package org.velazquez.U3_arrays.Practica_U3;
+package org.velazquez.U3_strings_arrays.Practica_U3;
 
 public class cuadrado3x3 {
     public static void dibujarCuadrado3x3(int veces) {

@@ -1,4 +1,4 @@
-package org.velazquez.U3_arrays.Practica_U3;
+package org.velazquez.U3_strings_arrays.Practica_U3;
 
 public class cuadradoAnchoLargo {
     public static void cuadradoAnchoLargo(int largo, int ancho) {

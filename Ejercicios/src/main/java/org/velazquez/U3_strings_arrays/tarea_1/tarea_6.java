@@ -1,4 +1,4 @@
-package org.velazquez.U3_arrays.tarea_1;
+package org.velazquez.U3_strings_arrays.tarea_1;
 
 import java.util.Scanner;
 

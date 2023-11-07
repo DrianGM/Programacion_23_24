@@ -1,4 +1,4 @@
-package org.velazquez.U3_arrays.tarea_1;
+package org.velazquez.U3_strings_arrays.tarea_1;
 
 import java.util.Scanner;
 
@@ -10,7 +10,7 @@ public class tarea_7 {
                 contador++;
             }
         }
-        if (contador <= 2) {
+        if (contador == 2) {
             System.out.println("El numero " + a + " es primo");
         } else {
             System.out.println("El numero " + a + " no es primo");

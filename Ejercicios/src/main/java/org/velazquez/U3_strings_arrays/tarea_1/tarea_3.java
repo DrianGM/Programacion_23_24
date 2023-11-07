@@ -1,4 +1,4 @@
-package org.velazquez.U3_arrays.tarea_1;
+package org.velazquez.U3_strings_arrays.tarea_1;
 
 public class tarea_3 {
     public static void areaVolumen(double a, double radio, double altura) {

@@ -1,8 +1,8 @@
-package org.velazquez.U3_arrays.tarea_1;
+package org.velazquez.U3_strings_arrays.tarea_1;
 
 import java.util.Scanner;
 
-public class tarea_5 {
+public class tarea_4 {
     static int numMayor(int a, int b) {
         return Math.max(a, b);
     }
@@ -11,9 +11,7 @@ public class tarea_5 {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();
         int b = sc.nextInt();
-        int c = sc.nextInt();
-        int mayor = numMayor(numMayor(a, b), c);
+        int mayor = numMayor(a, b);
         System.out.println(mayor);
     }
 }
-
