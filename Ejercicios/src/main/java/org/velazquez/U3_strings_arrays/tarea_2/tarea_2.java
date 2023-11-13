@@ -5,10 +5,19 @@ import java.util.Scanner;
 public class tarea_2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("Ingrese la siguiente palabra :");
-        String palabra = sc.nextLine();
+        String palabra = "";
+        String frase = "";
+        String espacio = " ";
+        boolean inicio = true;
         while (!palabra.equals("fin")) {
+            frase = frase + palabra;
+            if (!inicio) {
+                frase = frase + espacio;
+            }
+            System.out.println("Ingrese la siguiente palabra :");
+            palabra = sc.nextLine();
+            inicio = false;
         }
-        //WORK IN PROGRESS
+        System.out.println(frase);
     }
 }
