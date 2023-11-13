@@ -9,7 +9,6 @@ public class tarea_5 {
         String frase = sc.nextLine();
         String soloVocales = "";
         char letra;
-
         for (int i = 0; i < frase.length(); i++) {
             letra = frase.charAt(i);
             if ((letra == 'a') || (letra == 'e') || (letra == 'i') || (letra == 'o') || (letra == 'u')) {
@@ -20,3 +19,5 @@ public class tarea_5 {
         System.out.println("cadena solo vocales: " + soloVocales);
     }
 }
+//WORK IN PROGRESS
+//NO ESTA TERMINADO, FUNCIONA MAL
