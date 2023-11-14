@@ -16,7 +16,19 @@ public class tarea_9 {
         System.out.println(ultimosCuatro);
         System.out.println("Capacidad final = " + sb.capacity());
         System.out.println("Longitud final = " + sb.length());
+        System.out.println("----------");
+        StringBuffer sbf = new StringBuffer("Alabí Alixar");
+        System.out.println("Capacidad inicial = " + sbf.capacity());
+        System.out.println("Longitud inicial = " + sbf.length());
+        sbf.replace(0, sbf.length(), "Chicharrones de Chiclana");
+        System.out.println(sbf);
+        sbf.replace(0, sbf.length(), "Hay " + num + " Chicharrones");
+        System.out.println(sbf);
+        sbf.insert(sbf.length(), " en Chiclana");
+        System.out.println(sbf);
+        String ultimosCuatro2 = sbf.substring(sbf.length() - 4, sbf.length());
+        System.out.println(ultimosCuatro2);
+        System.out.println("Capacidad final = " + sbf.capacity());
+        System.out.println("Longitud final = " + sbf.length());
     }
 }
-//WORK IN PROGRESS
-//FALTA HACER EL MISMO EJERCICIO PERO CON LA CLASE STRINGBUFFER
