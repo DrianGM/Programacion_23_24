@@ -11,9 +11,9 @@ public class ejercicio_6 {
     }
 
     public static int[] sinRepetidos(int[] t) {
-        int[] sinRepetidos = null;
-        int contadorRepetidos = 0;
         int aumentarArray = 0;
+        int[] sinRepetidos = new int[aumentarArray + 1];
+        int contadorRepetidos = 0;
         for (int i = 0; i < t.length; i++) {
             for (int j = 0; j < t.length; j++) {
                 if (t[i] == t[j]) {
@@ -22,12 +22,10 @@ public class ejercicio_6 {
             }
             if (contadorRepetidos < 2) {
                 aumentarArray++;
-            } else {
-
+                sinRepetidos[i] = t[i];
             }
             contadorRepetidos = 0;
         }
-        sinRepetidos = new int[aumentarArray];
         return sinRepetidos;
     }
 }
