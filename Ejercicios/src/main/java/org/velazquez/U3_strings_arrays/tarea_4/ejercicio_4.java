@@ -1,6 +1,5 @@
 package org.velazquez.U3_strings_arrays.tarea_4;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class ejercicio_4 {
