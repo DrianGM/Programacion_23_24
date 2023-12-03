@@ -1,7 +1,6 @@
 package org.velazquez.U3_strings_arrays.tarea_4;
 
-
-//import java.util.Arrays;
+import java.util.Arrays;
 
 public class ejercicio_5 {
     public static void main(String[] args) {
@@ -17,7 +16,7 @@ public class ejercicio_5 {
             for (int j = 0; j < tabla[i].length; j++) {
                 tabla[i][j] = num;
                 if (i == j) {
-                    System.out.println(num);
+                    System.out.print("*"+num+"* ");
                     mediaDiagonal = mediaDiagonal + num;
                     contador++;
                     if (num > maximo) {
@@ -27,13 +26,15 @@ public class ejercicio_5 {
                             minimo = num;
                         }
                     }
+                } else {
+                    System.out.print(num+" ");
                 }
                 num = (int) (Math.random() * ((randomMax + 1) - randomMin)) + randomMin;
             }
+            System.out.println();
         }
-        //System.out.println(Arrays.deepToString(tabla));
         mediaDiagonal = mediaDiagonal / contador;
-        System.out.println("La media de la diagonal es de :" + mediaDiagonal);
+        System.out.println("La media de la diagonal es de : " + mediaDiagonal);
         System.out.println("El numero maximo es : " + maximo);
         System.out.println("El numero minimo es : " + minimo);
     }
