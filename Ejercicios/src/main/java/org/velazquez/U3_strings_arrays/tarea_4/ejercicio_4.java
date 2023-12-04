@@ -3,9 +3,9 @@ package org.velazquez.U3_strings_arrays.tarea_4;
 import java.util.Scanner;
 
 public class ejercicio_4 {
-    public static String calcularCasilla(int fila,int columna){
+    public static String calcularCasilla(int fila, int columna) {
         String casilla = "";
-        switch (columna){
+        switch (columna) {
             case 0:
                 casilla = casilla + "A";
                 break;
@@ -31,7 +31,7 @@ public class ejercicio_4 {
                 casilla = casilla + "H";
                 break;
         }
-        switch (fila){
+        switch (fila) {
             case 0:
                 casilla = casilla + "8";
                 break;
@@ -67,64 +67,64 @@ public class ejercicio_4 {
         String[][] tablero = new String[capacidad][capacidad];
         for (int i = 0; i < capacidad; i++) {
             for (int j = 0; j < capacidad; j++) {
-                tablero[i][j] = calcularCasilla(i,j);
+                tablero[i][j] = calcularCasilla(i, j);
             }
         }
-        for (int i=0;i<capacidad;i++){
-            for (int j=0;j<capacidad;j++){
-                System.out.print(tablero[i][j]+" ");
+        for (int i = 0; i < capacidad; i++) {
+            for (int j = 0; j < capacidad; j++) {
+                System.out.print(tablero[i][j] + " ");
             }
             System.out.println();
         }
         System.out.println("Introduzca la posicion del alfil :");
         String posicion = sc.nextLine();
-        int k=0;
-        int l=0;
+        int k = 0;
+        int l = 0;
         for (int i = 0; i < capacidad; i++) {
             for (int j = 0; j < capacidad; j++) {
                 if (tablero[i][j].equals(posicion)) {
-                    k=i;
-                    l=j;
+                    k = i;
+                    l = j;
                 }
             }
         }
         System.out.println("El alfil puede moverse a las siguientes posiciones:");
-        inferiorDerecha(tablero,k,l);
-        superiorDerecha(tablero,k,l);
-        inferiorIzquierda(tablero,k,l);
-        superiorIzquierda(tablero,k,l);
+        inferiorDerecha(tablero, k, l);
+        superiorDerecha(tablero, k, l);
+        inferiorIzquierda(tablero, k, l);
+        superiorIzquierda(tablero, k, l);
     }
 
 
-    public static void inferiorDerecha(String[][] tablero,int fila,int columna){
-        while (fila!=7 && columna!=7){
+    public static void inferiorDerecha(String[][] tablero, int fila, int columna) {
+        while (fila != 7 && columna != 7) {
             fila++;
             columna++;
-            System.out.print(tablero[fila][columna]+" ");
+            System.out.print(tablero[fila][columna] + " ");
         }
     }
 
-    public static void superiorDerecha(String[][] tablero,int fila,int columna){
-        while (fila!=0 && columna!=7){
+    public static void superiorDerecha(String[][] tablero, int fila, int columna) {
+        while (fila != 0 && columna != 7) {
             fila--;
             columna++;
-            System.out.print(tablero[fila][columna]+" ");
+            System.out.print(tablero[fila][columna] + " ");
         }
     }
 
-    public static void inferiorIzquierda(String[][] tablero,int fila,int columna){
-        while (fila!=7 && columna!=0){
+    public static void inferiorIzquierda(String[][] tablero, int fila, int columna) {
+        while (fila != 7 && columna != 0) {
             fila++;
             columna--;
-            System.out.print(tablero[fila][columna]+" ");
+            System.out.print(tablero[fila][columna] + " ");
         }
     }
 
-    public static void superiorIzquierda(String[][] tablero,int fila,int columna){
-        while (fila!=0 && columna!=0){
+    public static void superiorIzquierda(String[][] tablero, int fila, int columna) {
+        while (fila != 0 && columna != 0) {
             fila--;
             columna--;
-            System.out.print(tablero[fila][columna]+" ");
+            System.out.print(tablero[fila][columna] + " ");
         }
     }
 }
