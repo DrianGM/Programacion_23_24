@@ -6,8 +6,8 @@ public class ejercicio_5 {
         int randomMin = 200;
         int mediaDiagonal = 0;
         int contador = 0;
-        int minimo = 301;
-        int maximo = 0;
+        int minimo = 0;
+        int maximo = 301;
         int num = (int) (Math.random() * ((randomMax + 1) - randomMin)) + randomMin;
         int[][] tabla = new int[10][10];
         for (int i = 0; i < tabla.length; i++) {

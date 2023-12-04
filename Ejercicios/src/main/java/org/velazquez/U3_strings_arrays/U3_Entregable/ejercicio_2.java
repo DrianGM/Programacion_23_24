@@ -43,7 +43,7 @@ public class ejercicio_2 {
     public static void main(String[] args) {
         int[] array = {12, 10, 12, 45, 67, 12};
         boolean repetidos = hayRepetidos(array);
-        System.out.println(repetidos);
+        //System.out.println(repetidos);
         int[] sinDuplicados = sinDuplicados(array);
         System.out.println(Arrays.toString(sinDuplicados));
 
