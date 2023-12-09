@@ -1,4 +1,4 @@
-package org.velazquez.U3_strings_arrays.Practica_U3.Entregable2021_Tarde.Arrays_Practica_2;
+package org.velazquez.U3_strings_arrays.Practica_U3;
 
 /**
  * * 10. Realiza el juego de las tres en raya.

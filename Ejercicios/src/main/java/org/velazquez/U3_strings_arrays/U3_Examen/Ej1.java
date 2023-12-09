@@ -1,4 +1,4 @@
-package org.velazquez.U3_strings_arrays.Examen_U3;
+package org.velazquez.U3_strings_arrays.U3_Examen;
 
 import java.util.Scanner;
 
