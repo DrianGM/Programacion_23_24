@@ -5,7 +5,7 @@ public class CuentaCorriente {
     private String dni;
     private long saldo;
     private long limit_descub;
-    private String nombre_banco;
+    static String nombre_banco;
 
 
     public void informacion(){
@@ -38,8 +38,8 @@ public class CuentaCorriente {
         this.dni=dni;
     }
 
-    public void setBanco(String banco) {
-        this.nombre_banco = banco;
+    public static void setNombreBanco(String banco) {
+        nombre_banco = banco;
     }
 
 }
