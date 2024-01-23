@@ -1,4 +1,4 @@
-package org.velazquez.U4_POO.tarea_2;
+package org.velazquez.U4_POO.Practica_U4;
 
 import java.util.Scanner;
 
@@ -12,7 +12,6 @@ public class Transformador_Tiempo {
         int cociente2 = 0;
         int resto = 0;
         int n = sc.nextInt();
-        while(true){
             if (segundos+n<=59){
                 segundos=segundos+n;
             } else {
@@ -31,6 +30,5 @@ public class Transformador_Tiempo {
             System.out.println(minutos+" minutos");
             System.out.println(segundos+" segundos");
             n = sc.nextInt();
-        }
     }
 }

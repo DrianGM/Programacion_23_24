@@ -5,12 +5,6 @@ public class Hora {
     private int minuto;
     private int segundo;
 
-    public Hora(int hora, int minuto, int segundo) {
-        this.hora = hora;
-        this.minuto = minuto;
-        this.segundo = segundo;
-    }
-
     public void setHora(int hora) {
         this.hora = hora;
     }
@@ -35,11 +29,12 @@ public class Hora {
         return segundo;
     }
 
-    public void sumarSegundos(int n){
-        if(n+segundo<=59){
-            segundo=segundo+n;
-        } else {
-
-        }
+    @Override
+    public String toString() {
+        return "Hora{" +
+                "hora=" + hora +
+                ", minuto=" + minuto +
+                ", segundo=" + segundo +
+                '}';
     }
 }
