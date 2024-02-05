@@ -10,6 +10,10 @@ public abstract class Instrumento {
         this.notas = notas;
     }
 
+    public Instrumento() {
+
+    }
+
 
     public void add(NotasMusicales nota) {
         for (int i = 0; i < notas.length; i++) {
