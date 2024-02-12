@@ -9,7 +9,7 @@ public class Principal {
         System.out.println(lavadora1);
         System.out.println(lavadora2);
         System.out.println(lavadora1.compareTo(lavadora2));
-        System.out.println(lavadora1.compareToPrecioFinal(lavadora2));
+        //System.out.println(lavadora1.compareToPrecioFinal(lavadora2));
         Television samsung = new Television();
         System.out.println(samsung);
         //Hay un bug con el precio final
