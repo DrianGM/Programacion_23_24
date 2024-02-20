@@ -2,12 +2,14 @@ package org.velazquez.U5_herencia_interfaces.Practica_U5.Maniana_21_22;
 
 public class Persona {
     private String NIF;
-    private String nombreCompleto;
+    protected String nombreCompleto;
     private int id;
 
-    public Persona (String NIF, String nombreCompleto, int id){
+    private static int contadorIds = 0;
+
+    public Persona (String NIF, String nombreCompleto){
         this.NIF=NIF;
         this.nombreCompleto=nombreCompleto;
-        this.id=id;
+        this.id= ++contadorIds;
     }
 }

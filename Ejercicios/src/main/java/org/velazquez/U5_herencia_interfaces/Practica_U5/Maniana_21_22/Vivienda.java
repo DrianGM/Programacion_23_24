@@ -6,7 +6,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.Arrays;
 
-public class Vivienda extends Propiedad {
+public class Vivienda extends Propiedad implements PrecioVenta {
     private int numBanios;
     private int numHabitaciones;
     private int capacidadMax;
@@ -28,28 +28,24 @@ public class Vivienda extends Propiedad {
         DateTimeFormatter formato = DateTimeFormatter.ofPattern("dd-MM-yyyy HH:mm:ss");
         String fechaFormateada = ahora.format(formato);
         System.out.println("Fecha y hora actual: " + fechaFormateada);
-        //Falta mostrar los atributos
+        System.out.println("Anio de construccion : "+anioConstruccion);
+        System.out.println("Direccion :"+direccion);
+        System.out.println("Metros cuadrados :"+metrosCuadrados);
+        System.out.println("Numero de banios :"+numBanios);
+        System.out.println("Numero de habitaciones :"+numHabitaciones);
+        System.out.println("Capacidad maxima de personas :"+capacidadMax);
+        System.out.println("Precio :"+precio);
+        for (int i = 0; i < personas.length; i++) {
+            if (personas[i]!=null){
+                System.out.println(personas[i].nombreCompleto);
+            } else {
+                System.out.println("null");
+            }
+        }
     }
 
     public void agregarPersona(Persona persona) {
-//        if (personas[personas.length-1]==null){
-//            Persona[] copia = new Persona[personas.length + 1];
-//            for (int i = 0; i < personas.length; i++) {
-//                copia[i] = personas[i];
-//            }
-//            boolean check = true;
-//            for (int i = 0; i < copia.length; i++) {
-//                if (persona==copia[i]){
-//                    check=false;
-//                }
-//            }
-//            if (check){
-//                copia[personas.length] = persona;
-//                personas = copia;
-//            }
-//        }
-        boolean check = true;
-        if (personas[personas.length-1]==null){
+            boolean check = true;
             for (int i = 0; i < personas.length; i++) {
                 if (personas[i]==persona){
                     check=false;
@@ -60,33 +56,25 @@ public class Vivienda extends Propiedad {
                 for (int i = 0; i < personas.length; i++) {
                     if (personas[i]==null){
                         personas[i]=persona;
+                        break;
                     }
-
                 }
             }
-        }
     }
 
     public void eliminarPersona(Persona persona) {
-        Persona[] copia = new Persona[personas.length - 1];
-        int k = 0;
         for (int i = 0; i < personas.length; i++) {
-            if (personas[i] != persona) {
-                copia[k] = personas[i];
-                k++;
+            if (personas[i]==persona){
+                personas[i]=null;
+                break;
             }
         }
-        personas = copia;
+
     }
 
+
     @Override
-    public String toString() {
-        return "Vivienda{" +
-                "numBanios=" + numBanios +
-                ", numHabitaciones=" + numHabitaciones +
-                ", capacidadMax=" + capacidadMax +
-                ", precio=" + precio +
-                ", personas=" + Arrays.toString(personas) +
-                '}';
+    public void mostrarPrecioVenta() {
+        System.out.println("Soy una Vivienda con capacidad máxima "+capacidadMax+" y valgo "+precio);
     }
 }

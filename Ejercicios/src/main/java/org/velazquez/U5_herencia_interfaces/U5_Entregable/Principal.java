@@ -21,7 +21,5 @@ public class Principal {
         b1.agregarParticipante(p4);
         b1.agregarParticipante(p5);
         b1.agregarParticipante(p6);
-
-
     }
 }
