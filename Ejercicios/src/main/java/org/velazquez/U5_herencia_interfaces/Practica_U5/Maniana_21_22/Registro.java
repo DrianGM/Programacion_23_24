@@ -38,39 +38,40 @@ public class Registro {
     }
 
     public void informeSuperficie(){
-        Arrays.sort(propiedades);
-        //DA BUG AQUI^
-//        Arrays.sort(
-//                propiedades,
-//                new Comparator<Propiedad>() {
-//                    @Override
-//                    public int compare(Propiedad p1, Propiedad p2) {
-//                        if (p1.getMetrosCuadrados() < p2.getMetrosCuadrados()) {
-//                            return -1;
-//                        } else if (p1.getMetrosCuadrados() > p2.getMetrosCuadrados()) {
-//                            return 1;
-//                        }
-//                        return 0;
-//                    }
-//                });
-        for (int i = 0; i < propiedades.length; i++) {
-            System.out.println(propiedades[i].getMetrosCuadrados());
-        }
-    }
-
-    public void informeAntiguedad(){
         Arrays.sort(
                 propiedades,
                 new Comparator<Propiedad>() {
                     @Override
                     public int compare(Propiedad p1, Propiedad p2) {
-                        if (p1.getAnioConstruccion() < p2.getAnioConstruccion()) {
+                        if (p1.metrosCuadrados < p2.metrosCuadrados) {
                             return -1;
-                        } else if (p1.getAnioConstruccion() > p2.getAnioConstruccion()) {
+                        } else if (p1.metrosCuadrados > p2.metrosCuadrados) {
                             return 1;
                         }
-                        return p1.compareTo(p2);
+                        return 0;
                     }
                 });
+        for (int i = 0; i < propiedades.length; i++) {
+            System.out.println(propiedades[i]);
+        }
+    }
+
+    public void informeAntiguedad () {
+        Arrays.sort(propiedades, new Comparator<Propiedad>() {
+            @Override
+            public int compare(Propiedad o1, Propiedad o2) {
+                if (o1.anioConstruccion > o2.anioConstruccion) {
+                    return -1;
+                } else if (o1.anioConstruccion < o2.anioConstruccion) {
+                    return 1;
+                } else {
+                    return o1.compareTo(o2);
+                }
+            }
+        });
+
+        for (int i = 0; i < propiedades.length; i++) {
+            System.out.println(propiedades[i]);
+        }
     }
 }

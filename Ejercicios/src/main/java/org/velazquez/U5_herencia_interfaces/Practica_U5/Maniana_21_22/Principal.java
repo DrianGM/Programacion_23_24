@@ -2,10 +2,10 @@ package org.velazquez.U5_herencia_interfaces.Practica_U5.Maniana_21_22;
 
 public class Principal {
     public static void main(String[] args) {
-        Vivienda l1 = new Vivienda(2012,"Villamarin",101,2,6,5,150000);
-        Vivienda l2 = new Vivienda(2012,"Villamarin",102,2,6,5,150000);
-        Vivienda l3 = new Vivienda(2012,"Villamarin",103,2,6,5,150000);
-        Vivienda l4 = new Vivienda(2012,"Villamarin",104,2,6,5,150000);
+        Vivienda l1 = new Vivienda(2023,"Villamarin",114,2,6,5,150000);
+        Vivienda l2 = new Vivienda(2023,"Roseleda",106,2,6,5,150000);
+        Vivienda l3 = new Vivienda(2016,"Bombonera",110,2,6,5,150000);
+        Vivienda l4 = new Vivienda(2009,"San Mames",103,2,6,5,150000);
         Persona p1 = new Persona("838383F","Paco");
         Persona p2 = new Persona("838383F","Pepito");
         Persona p3 = new Persona("838383F","Julio");
@@ -30,6 +30,7 @@ public class Principal {
         r1.agregarPropiedad(l4);
         r1.agregarPropiedad(l2);
         r1.informeSuperficie();
-        //BUG AQUI
+        System.out.println("------------------------");
+        r1.informeAntiguedad();
     }
 }

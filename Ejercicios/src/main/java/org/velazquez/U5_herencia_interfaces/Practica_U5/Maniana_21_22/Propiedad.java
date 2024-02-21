@@ -45,4 +45,29 @@ public abstract class Propiedad {
     public static int getCantidadPropiedades() {
         return cantidadPropiedades;
     }
+
+    public void setAnioConstruccion(int anioConstruccion) {
+        this.anioConstruccion = anioConstruccion;
+    }
+
+    public void setDireccion(String direccion) {
+        this.direccion = direccion;
+    }
+
+    public void setMetrosCuadrados(float metrosCuadrados) {
+        this.metrosCuadrados = metrosCuadrados;
+    }
+
+    public static void setCantidadPropiedades(int cantidadPropiedades) {
+        Propiedad.cantidadPropiedades = cantidadPropiedades;
+    }
+
+    @Override
+    public String toString() {
+        return "Propiedad{" +
+                "anioConstruccion=" + anioConstruccion +
+                ", direccion='" + direccion + '\'' +
+                ", metrosCuadrados=" + metrosCuadrados +
+                '}';
+    }
 }
