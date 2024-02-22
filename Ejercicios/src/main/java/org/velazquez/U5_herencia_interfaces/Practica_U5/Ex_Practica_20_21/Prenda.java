@@ -6,4 +6,14 @@ public class Prenda {
     private String codBarra;
     private float peso;
     private static int cantidadPrendas;
+
+    @Override
+    public String toString() {
+        return "Prenda{" +
+                "precio=" + precio +
+                ", nombre='" + nombre + '\'' +
+                ", codBarra='" + codBarra + '\'' +
+                ", peso=" + peso +
+                '}';
+    }
 }
