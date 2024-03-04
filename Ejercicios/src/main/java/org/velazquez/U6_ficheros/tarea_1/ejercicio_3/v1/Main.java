@@ -9,7 +9,6 @@ public class Main {
         String texto = "";
         try {
             BufferedReader in = new BufferedReader(new FileReader(nombreFichero));
-            texto = "";
             String linea = in.readLine();
             while (linea != null) {
                 texto += linea;
