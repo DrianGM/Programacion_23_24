@@ -1,0 +1,13 @@
+
+d
+java:S1192"NDefine a constant instead of duplicating this literal "El mayor es: " 4 times.(µÀŞ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(°øÿËûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éßÀµ
+E	java:S106"+Replace this use of System.out by a logger.(¹Ñîüıÿÿÿÿ
+E	java:S106
+"+Replace this use of System.out by a logger.(ÏæµÃøÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(“ÛÆ™
+@	java:S106"+Replace this use of System.out by a logger.(µÀŞ
+E	java:S106"+Replace this use of System.out by a logger.(ÇƒÂôşÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(÷µé¹
+E	java:S106"+Replace this use of System.out by a logger.(ÇƒÂôşÿÿÿÿ

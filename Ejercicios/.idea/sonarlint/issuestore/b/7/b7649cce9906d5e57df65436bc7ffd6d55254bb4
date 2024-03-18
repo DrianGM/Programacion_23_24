@@ -1,0 +1,16 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È¥™©úÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ëó“Ì
+c
+java:S2184"HCast one of the operands of this multiplication operation to a "double".(¯ß¡«ÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éßÀµ
+P
+java:S1854":Remove this useless assignment to local variable "estado".(½Ÿ—
+@	java:S106"+Replace this use of System.out by a logger.(²İÛ
+E	java:S106"+Replace this use of System.out by a logger.(ÅÎùÈøÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(‰Ô¼¼
+E	java:S106"+Replace this use of System.out by a logger.(Ğıùşÿÿÿÿ
+A
+java:S1481"+Remove this unused "estado" local variable.(½Ÿ—
+@	java:S106'"+Replace this use of System.out by a logger.(±‡Şæ
+E	java:S106-"+Replace this use of System.out by a logger.(ä™ úÿÿÿÿ

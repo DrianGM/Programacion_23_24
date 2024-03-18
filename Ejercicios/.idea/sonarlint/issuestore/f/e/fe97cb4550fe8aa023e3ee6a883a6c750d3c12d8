@@ -1,0 +1,7 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­ìøÃûÿÿÿÿ
+E
+java:S1481"*Remove this unused "ruta2" local variable.(½«”üÿÿÿÿ
+W	java:S899"BDo something with the "boolean" value returned by "createNewFile".(óºœò
+=	java:S108")Either remove or fill this block of code.(¥Îµ3
+E	java:S106"+Replace this use of System.out by a logger.(ı™øøÿÿÿÿ

@@ -1,0 +1,15 @@
+
+c
+java:S1192"NDefine a constant instead of duplicating this literal "El mayor es: " 4 times.(¥Ğˆi
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(É¢´¥
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒ–™şÿÿÿÿ
+Z
+java:S1659"?Declare "n2" and all following declarations on a separate line.(¤÷–„ùÿÿÿÿ
+E	java:S106	"+Replace this use of System.out by a logger.(ÒÏÆßøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¤Í½Öøÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(³Àşÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(¥Ğˆi
+@	java:S106"+Replace this use of System.out by a logger.(• Æ
+@	java:S106"+Replace this use of System.out by a logger.(æ”ş
+@	java:S106"+Replace this use of System.out by a logger.(• Æ
+V	java:S125"<This block of commented-out lines of code should be removed.(õÛ¸Ìúÿÿÿÿ

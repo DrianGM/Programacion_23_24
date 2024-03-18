@@ -1,0 +1,18 @@
+
+a
+java:S1192>"KDefine a constant instead of duplicating this literal " capitulo " 3 times.(ËúÕ¨
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëÍÍıÿÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¡ö
+o
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ñ‰óŞ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ï¥
+@	java:S1064"+Replace this use of System.out by a logger.(Ñ‘ÅË
+?
+java:S2140=")Use "java.util.Random.nextInt()" instead.(ÂÙó
+@	java:S106>"+Replace this use of System.out by a logger.(ËúÕ¨
+?
+java:S2140E")Use "java.util.Random.nextInt()" instead.(ÂÙó
+?	java:S106F"+Replace this use of System.out by a logger.(ŸôU
+?
+java:S2140M")Use "java.util.Random.nextInt()" instead.(ÂÙó
+@	java:S106N"+Replace this use of System.out by a logger.(é¦¢

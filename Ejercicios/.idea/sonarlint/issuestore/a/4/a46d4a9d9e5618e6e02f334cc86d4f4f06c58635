@@ -1,0 +1,49 @@
+
+a
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ü€Ñ
+a
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ü€Ñ
+a
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ü€Ñ
+a
+java:S1301("KReplace this "switch" statement by "if" statements to increase readability.(ü€Ñ
+a
+java:S13011"KReplace this "switch" statement by "if" statements to increase readability.(ü€Ñ
+a
+java:S1301:"KReplace this "switch" statement by "if" statements to increase readability.(ü€Ñ
+a
+java:S1301C"KReplace this "switch" statement by "if" statements to increase readability.(ü€Ñ
+a
+java:S1301L"KReplace this "switch" statement by "if" statements to increase readability.(ü€Ñ
+a
+java:S1301U"KReplace this "switch" statement by "if" statements to increase readability.(ü€Ñ
+a
+java:S1301^"KReplace this "switch" statement by "if" statements to increase readability.(ü€Ñ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(İåúö
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éßÀµ
+E	java:S106	"+Replace this use of System.out by a logger.(ÎÅºÔıÿÿÿÿ
+E	java:S106
+"+Replace this use of System.out by a logger.(ƒë°ºÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ì‘´
+7	java:S131""Add a default case to this switch.(ü€Ñ
+E	java:S106"+Replace this use of System.out by a logger.(öşèŠÿÿÿÿÿ
+7	java:S131""Add a default case to this switch.(ü€Ñ
+E	java:S106"+Replace this use of System.out by a logger.(‡¡©µøÿÿÿÿ
+7	java:S131""Add a default case to this switch.(ü€Ñ
+E	java:S106&"+Replace this use of System.out by a logger.(õ¯úÁøÿÿÿÿ
+7	java:S131(""Add a default case to this switch.(ü€Ñ
+@	java:S106/"+Replace this use of System.out by a logger.(­âÇ×
+7	java:S1311""Add a default case to this switch.(ü€Ñ
+E	java:S1068"+Replace this use of System.out by a logger.(£çğşÿÿÿÿ
+7	java:S131:""Add a default case to this switch.(ü€Ñ
+E	java:S106A"+Replace this use of System.out by a logger.(¯Ì«ûÿÿÿÿ
+7	java:S131C""Add a default case to this switch.(ü€Ñ
+E	java:S106J"+Replace this use of System.out by a logger.(­˜×°ÿÿÿÿÿ
+7	java:S131L""Add a default case to this switch.(ü€Ñ
+E	java:S106S"+Replace this use of System.out by a logger.(„¿–Ëùÿÿÿÿ
+7	java:S131U""Add a default case to this switch.(ü€Ñ
+@	java:S106\"+Replace this use of System.out by a logger.(æÒ¹À
+7	java:S131^""Add a default case to this switch.(ü€Ñ
+@	java:S106f"+Replace this use of System.out by a logger.(û‹õ
+?	java:S106h"+Replace this use of System.out by a logger.(…êò3
+E	java:S106j"+Replace this use of System.out by a logger.(æïÅüÿÿÿÿ

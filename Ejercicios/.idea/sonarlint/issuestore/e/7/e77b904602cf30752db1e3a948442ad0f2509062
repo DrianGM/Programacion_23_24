@@ -1,0 +1,17 @@
+
+C
+java:S1604I"(Make this anonymous inner class a lambda(÷¡ùÿÿÿÿ
+C
+java:S1604U"(Make this anonymous inner class a lambda(÷¡ùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëÍÍıÿÿÿÿÿ
+c	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª³Òš
+E	java:S106"+Replace this use of System.out by a logger.(ÁŠÔëşÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Šãº
+o
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(»ß„˜
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú²¿šùÿÿÿÿ
+h	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šøò…ùÿÿÿÿ
+V	java:S1258"<This block of commented-out lines of code should be removed.(Çù¨Ãûÿÿÿÿ
+c	java:S100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§Æ½Ï
+h	java:S100Q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¹ñœÿÿÿÿÿ
