@@ -1,0 +1,8 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÁÅÈ úÿÿÿÿ8œÒ¯å1J$bad49f15-c0a0-4c9d-a897-485d47555546
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥Ÿ×æ8Ò¯å1J$bcfec673-4d92-4514-8d62-7d555c482f77
+r	java:S106"+Replace this use of System.out by a logger.(Íä‘†üÿÿÿÿ8…²¶°å1J$29833d79-a524-4a28-af2d-54e544c67b5e
+r	java:S106"+Replace this use of System.out by a logger.(ÜÂ­Øøÿÿÿÿ8à¿°å1J$80aa6451-1430-4c04-9e4a-358229c6b397
+r	java:S106"+Replace this use of System.out by a logger.(¼»Ñ°ıÿÿÿÿ8à¿°å1J$682d6a5d-85a9-4a6c-9e38-cbea6c21b13f
+p
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8¥ÍÀ°å1J$fb4c3d6e-5367-46ea-b0cd-56f216d671fa

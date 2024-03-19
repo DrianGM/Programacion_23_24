@@ -1,5 +1,6 @@
 package org.velazquez.U7_colecciones.tarea_1;
 
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class ejercicio_4 {
@@ -7,9 +8,28 @@ public class ejercicio_4 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Ingrese una frase que conste exclusivamente de palabras separadas por espacios :");
         String frase = sc.nextLine();
-
-
-
-        //WORK IN PROGRESS
+        ArrayList<String> lista = new ArrayList<>();
+        String palabra = "";
+        for (int i = 0; i < frase.length(); i++) {
+            if (frase.charAt(i)==' ' || i==frase.length()-1){
+                if (i==frase.length()-1){
+                    palabra=palabra+frase.charAt(i);
+                }
+                boolean add = true;
+                for (String str : lista) {
+                    if (str.equals(palabra)){
+                        add=false;
+                        break;
+                    }
+                }
+                if (add){
+                    lista.add(palabra);
+                }
+                palabra="";
+            } else {
+                palabra=palabra+frase.charAt(i);
+            }
+            System.out.println(lista);
+        }
     }
 }

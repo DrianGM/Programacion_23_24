@@ -1,8 +1,11 @@
 
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(öï¨8Ü˜Ç„å1J$34e24e10-a57f-431d-a4d9-e5b62241ae1e
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…¤Ç¡J$82aa0988-5bea-4918-b402-071b6d5edee8
-|
-java:S1854	"9Remove this useless assignment to local variable "frase".(™û¶Û8£‹Ó„å1J$51c9b556-ce28-4eab-86bf-aaae93d80235
-r	java:S106"+Replace this use of System.out by a logger.(ª¹·×ùÿÿÿÿ8ó¿Í„å1J$32c68162-e425-4935-8eb7-c91110a482f2
-m
-java:S1481	"*Remove this unused "frase" local variable.(™û¶Û8«‹Ó„å1J$c5a56c22-d007-4039-9af4-96194c355ffa
+d
+java:S1643"Use a StringBuilder instead.(â£¬„úÿÿÿÿ8±İß±å1J$f68a72fc-3414-4308-92a4-7e091ebc767e
+d
+java:S1643"Use a StringBuilder instead.(â£¬„úÿÿÿÿ8€¥ä±å1J$7393ed6d-06a5-4d17-870b-42cff7bfa925
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(öï¨8À½Ñ±å1J$4a3fb29c-246e-40a0-a9d3-4ba422c83a63
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…¤Ç¡8Á½Ñ±å1J$6e19da58-4c26-4f4f-99b9-8d7dbcc2e36a
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘8•êã±å1J$3c173177-304a-4662-9a84-5c4658d9e5aa
+r	java:S106	"+Replace this use of System.out by a logger.(ª¹·×ùÿÿÿÿ8ƒ¾Ñ±å1J$bb1525a9-437b-471a-b220-04a5ceeeb74e
+m	java:S106 "+Replace this use of System.out by a logger.(µ„ò8£‘å±å1J$79d411bf-a452-4fd6-8c2e-e4013bafcb0b
