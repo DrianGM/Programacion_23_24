@@ -13,10 +13,10 @@ public class ejercicio_11 {
         conjunto2.add("Satan");
         conjunto2.add("Yamcha");
         conjunto2.add("Gohan");
-        conjunto1 = interseccion(conjunto1,conjunto2);
+        conjunto1 = diferencia(conjunto1,conjunto2);
         System.out.println(conjunto1);
     }
-    public static <T> Set<T> interseccion(Set<T> conjunto1, Set<T> conjunto2) {
+    public static <T> Set<T> diferencia(Set<T> conjunto1, Set<T> conjunto2) {
         Set<T> conjuntoUnion = new HashSet<>(conjunto1);
         conjuntoUnion.removeAll(conjunto2);
         return conjuntoUnion;

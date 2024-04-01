@@ -1,9 +1,9 @@
 
-“	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş£«€8·ÍÉ…å1J$e7eeb381-e8ac-451e-99c7-b6e35e64f4e2
+“	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş£«€8·ÍÉ…å1J$1b52643b-a3f1-4133-9a61-c0086c9c0369
 ˜	java:S117
-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â×«Ôşÿÿÿÿ8¸ÍÉ…å1J$91ce6fbe-b8fb-4c61-84e2-9a98a84834f9
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(É¢´¥8¹ÍÉ…å1J$8b25f5c6-ed23-413f-a019-77fccb148b6f
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…¤Ç¡8»ÍÉ…å1J$62855a95-8148-408f-9969-48776ee6b977
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â×«Ôşÿÿÿÿ8¸ÍÉ…å1J$e928ebb0-09d6-4251-897b-149222caac65
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(É¢´¥8¹ÍÉ…å1J$8026aed1-3388-4431-aaf9-b708fd5f85b9
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…¤Ç¡8»ÍÉ…å1J$be7bd3b7-5a74-4eea-9578-a92e55f28e20
 q
-java:S2140")Use "java.util.Random.nextInt()" instead.(öŞñíıÿÿÿÿ8ÑÍÉ…å1J$755978da-0f03-41be-91b9-ad9dcef745a3
-m	java:S106"+Replace this use of System.out by a logger.(µ„ò8æğİ…å1J$0e88301b-24f0-4278-9d50-f381c6a53a68
+java:S2140")Use "java.util.Random.nextInt()" instead.(öŞñíıÿÿÿÿ8ÑÍÉ…å1J$c111c2f6-afa4-4844-b965-16d372adf328
+m	java:S106"+Replace this use of System.out by a logger.(µ„ò8æğİ…å1J$af347ea5-ce06-4b12-9e52-b71e7c245690
