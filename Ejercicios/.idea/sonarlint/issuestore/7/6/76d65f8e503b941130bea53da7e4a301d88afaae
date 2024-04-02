@@ -1,0 +1,14 @@
+
+w
+java:S3740"/Provide the parametrized type for this generic.(¢ú·šüÿÿÿÿ8»’Àïé1J$4e2b5b69-5b50-4b84-b3fa-d7a1bb48a9d6
+^
+java:S1643"Use a StringBuilder instead.(¡¶Œ38¾’Àïé1J$728ee4a9-430e-44d7-8b35-aa923d37e8a7
+_
+java:S16431"Use a StringBuilder instead.(ËÆŞ³8¾’Àïé1J$9b1ca0b2-c377-4406-82b8-aef630b2bd61
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÕ±®8À’Àïé1J$4124afbc-c0ea-4005-b1c7-e04deb98f794
+
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¼ÃÁ28Õ’Àïé1J$1f162917-d535-4f1d-94f2-baee6d530188
+
+java:S2095-"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¼ÃÁ28Õ’Àïé1J$d3db381e-28c8-4a7f-89b4-2e0409c24b40
+r	java:S106$"+Replace this use of System.out by a logger.(ı™øøÿÿÿÿ8İ’Àïé1J$e044d341-7afd-4b2b-b8b5-0abc668edc84
+r	java:S1069"+Replace this use of System.out by a logger.(ı™øøÿÿÿÿ8à’Àïé1J$d85af524-42d4-426c-aa4a-13909f6174f1
