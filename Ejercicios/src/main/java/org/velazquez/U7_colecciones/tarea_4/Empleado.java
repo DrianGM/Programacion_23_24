@@ -17,12 +17,10 @@ public class Empleado {
 
     @Override
     public String toString() {
-        return "Empleado{" +
-                "nombre='" + nombre + '\'' +
+        return "nombre='" + nombre + '\'' +
                 ", dni='" + dni + '\'' +
                 ", edad=" + edad +
                 ", estatura=" + estatura +
-                ", sueldo=" + sueldo +
-                '}';
+                ", sueldo=" + sueldo;
     }
 }

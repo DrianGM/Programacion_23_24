@@ -1,8 +1,0 @@
-
-_
-java:S1643"Use a StringBuilder instead.(ΛΖή³8ά‹­οι1J$890a01c5-5978-4cb0-b126-ed09d4aac8cd
-	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΘΥ±®8έ‹­οι1J$da8ae7a0-f55a-4d70-a948-60170148b178
-
-java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ΌΓΑ28ω‹­οι1J$01d200fe-1569-44ba-859a-a72c6ed367ee
-r	java:S106"+Replace this use of System.out by a logger.(τητΊόÿÿÿÿ8­οι1J$ec527a30-de8d-481c-b831-45a0b2a7009d
-r	java:S106"+Replace this use of System.out by a logger.(ύ™ψψÿÿÿÿ8­οι1J$04f06898-de04-4eb7-9659-bc2fa66da3ab
