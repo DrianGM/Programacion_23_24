@@ -1,0 +1,14 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø¼êÒûÿÿÿÿ8êÚÈÎğ1J$f926dfe6-3c28-4312-9170-b0c3e9924cc5
+i
+java:S1948
+"!Make "mapa" private or transient.(–àĞşÿÿÿÿ8öğéÎğ1J$4329df2f-7b20-471b-9151-6c79434e4bfb
+	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²Î›8ùÚÈÎğ1J$960c2d35-d4de-419e-9c18-bdae2062ead5
+m	java:S106"+Replace this use of System.out by a logger.(£Üîä8ùÚÈÎğ1J$5b351ca5-5fcf-4cd9-920d-8b2f1810906b
+m	java:S106"+Replace this use of System.out by a logger.(Êâ¯Œ8ùÚÈÎğ1J$86732fb2-1f77-4aa3-abd8-fa7a8fc2eb29
+r	java:S106"+Replace this use of System.out by a logger.(¸Á¢¨ûÿÿÿÿ8ùÚÈÎğ1J$b4bf755a-38a8-4725-9b19-06ae6d573842
+y
+java:S2696"6Make the enclosing method "static" or remove this set.(“Õ¿³8ùÚÈÎğ1J$987e7dcc-bc65-4af8-bf13-d5d48d605f83
+m	java:S106"+Replace this use of System.out by a logger.(šïµé8ùÚÈÎğ1J$b53a6505-4522-4204-91e0-b05f59311fdd
+r	java:S106)"+Replace this use of System.out by a logger.(ı™øøÿÿÿÿ8‰ÛÈÎğ1J$a294c8b5-aef4-438f-a567-069b9a6e2ce4
+r	java:S1064"+Replace this use of System.out by a logger.(ı™øøÿÿÿÿ8‰ÛÈÎğ1J$381caa6b-889a-4702-bc34-1c1a60b1dfb8

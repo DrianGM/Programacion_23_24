@@ -97,7 +97,7 @@ public class Main {
                         sc.nextLine();
                         Empleado emp = new Empleado(nombre,clave2,edad,estatura,sueldo);
                         mapa.put(clave2,emp);
-                        
+
                     } else {
                         System.out.println("No se ha encontrado a ningún empleado con ese DNI.");
                     }
