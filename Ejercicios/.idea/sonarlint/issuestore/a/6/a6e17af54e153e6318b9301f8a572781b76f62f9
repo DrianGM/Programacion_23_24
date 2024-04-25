@@ -1,0 +1,47 @@
+
+’
+java:S1192#"VDefine a constant instead of duplicating this literal "---------------------" 5 times.(¨³ËJ$0bdd60a3-c751-4d69-a0ec-aea7721d27a7
+ˆ	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡J$6404b0ac-4a80-4c0a-b19c-e332bef6487d
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İÈ¾ûÿÿÿÿJ$407ab7cc-b523-42ce-88f2-5d67bf201352
+ˆ
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘J$7c31d7c3-e5fe-46d0-81f7-323bc1c1d199
+x
+java:S1854"<Remove this useless assignment to local variable "alumno10".(¼ÂÎæJ$2f3fe3ff-fe14-4a39-a6c7-a7bb260576e6
+v
+java:S1854";Remove this useless assignment to local variable "alumno9".(‘û·mJ$49604765-e5d9-4fe4-900d-4e0050bf0c26
+|
+java:S1854";Remove this useless assignment to local variable "alumno8".(şâ«ûúÿÿÿÿJ$725d0ff5-1100-474b-8c33-d7ecdab14df9
+|
+java:S1854";Remove this useless assignment to local variable "alumno7".(àÏÀ şÿÿÿÿJ$ceb2d3da-23dc-4c70-9b49-969a72b0a3ad
+|
+java:S1854";Remove this useless assignment to local variable "alumno6".(¡Å–ûÿÿÿÿJ$10f6bb61-9293-46c4-bb08-31a44fc81429
+|
+java:S1854";Remove this useless assignment to local variable "alumno5".(¡®ÈşÿÿÿÿJ$68e9a6b5-6732-4c3b-9e0e-13e7834dca92
+w
+java:S1854";Remove this useless assignment to local variable "alumno4".(ÿÒ¤ÁJ$8c8d7192-3019-4920-baa9-068e5c9e1da2
+|
+java:S1854";Remove this useless assignment to local variable "alumno3".(Ï•îşÿÿÿÿJ$b57d3cbc-95fe-45aa-abb0-9c98d9711759
+m
+java:S1481",Remove this unused "alumno3" local variable.(Ï•îşÿÿÿÿJ$546a8f2e-65be-4345-a439-989a096e97b6
+h
+java:S1481",Remove this unused "alumno4" local variable.(ÿÒ¤ÁJ$4149a338-fb5e-47c9-8544-6fb144001143
+m
+java:S1481",Remove this unused "alumno5" local variable.(¡®ÈşÿÿÿÿJ$b7decaff-f3ff-40f1-9401-ba109abb44ef
+m
+java:S1481",Remove this unused "alumno6" local variable.(¡Å–ûÿÿÿÿJ$893aed17-c863-41f9-959b-811f968ef58e
+m
+java:S1481",Remove this unused "alumno7" local variable.(àÏÀ şÿÿÿÿJ$171825ff-ff02-4a0f-b0e3-882827e7354f
+m
+java:S1481",Remove this unused "alumno8" local variable.(şâ«ûúÿÿÿÿJ$524fb19a-2e74-424f-8487-9e57686a2c23
+g
+java:S1481",Remove this unused "alumno9" local variable.(‘û·mJ$8c394477-20aa-48a8-835d-0aab3498885c
+i
+java:S1481"-Remove this unused "alumno10" local variable.(¼ÂÎæJ$7024d935-adb4-4d55-bd3a-688eeb2f08b9
+|	java:S125"<This block of commented-out lines of code should be removed.(£ÛĞöüÿÿÿÿJ$d5bce155-3675-43cb-8bce-f8a30d9f86b0
+f	java:S106#"+Replace this use of System.out by a logger.(¨³ËJ$a3234b8e-1b91-417c-bdd0-244aa9ee761a
+f	java:S106%"+Replace this use of System.out by a logger.(¨³ËJ$9d35cfea-6b65-46cf-baab-816a27b0e10a
+f	java:S106'"+Replace this use of System.out by a logger.(¨³ËJ$434a022a-a18a-4965-b45d-09e8fefdcb22
+f	java:S106)"+Replace this use of System.out by a logger.(¨³ËJ$9768c866-010c-4136-8005-4b9e343205ea
+f	java:S106,"+Replace this use of System.out by a logger.(Åªö“J$8b1dccc0-58a4-4a27-bba0-479704e1bcef
+f	java:S106-"+Replace this use of System.out by a logger.(¨³ËJ$557b9954-5f09-4b0c-b667-f3dec2068ee7
+|	java:S125/"<This block of commented-out lines of code should be removed.(ŸÇìıÿÿÿÿJ$59632ac2-28e5-4ba7-a86b-66e101e83660

@@ -1,0 +1,42 @@
+
+‘	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ÚêÿûÿÿÿÿJ$67808699-4fc6-454f-ad71-3b32c5981472
+Œ	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å¢–ÔJ$b7272543-90c3-4b33-a7e9-3e56599d5720
+Œ	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×‘Ô¸J$e3d40c8a-975c-4da5-91a2-5077192da852
+Œ	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âšÄJ$601a89a7-1ca6-43a8-bdb4-e2e2cacba9c7
+‘	java:S117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÔ·½ûÿÿÿÿJ$d707cff0-9061-4f8d-a28b-1cc6ac2dacaf
+Œ	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÁ›‘J$9111610a-0acd-43b5-85b5-8e69fb1755a5
+‘	java:S117~"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»òü’üÿÿÿÿJ$de2f4605-b9ad-4c60-a09c-36f3e1ec047a
+’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÕ’êùÿÿÿÿJ$5db74a00-1059-4fad-828c-14e7eadefbc4
+ˆ	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‡éàñJ$1b7e3b81-1111-49d6-8644-1643d633512b
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú«ÌÎúÿÿÿÿJ$0c4757e7-cb09-4dc0-9137-d25fc7441385
+„
+java:S1854"BRemove this useless assignment to local variable "listas_iguales".(ÏÕ’êùÿÿÿÿJ$f2c182ba-0995-4918-9f67-6b63b39ffbb1
+ˆ
+java:S1854~"GRemove this useless assignment to local variable "indice_ultimo_de_c3".(»òü’üÿÿÿÿJ$aa74a001-20b9-4077-acb6-0de18d295570
+|
+java:S1854z"@Remove this useless assignment to local variable "indice_de_c4".(øÁ›‘J$653645bf-4183-4546-8d0e-d41f97bd749a
+†
+java:S1854v"ERemove this useless assignment to local variable "cliente_eliminado".(ğÔ·½ûÿÿÿÿJ$9a6ed8e6-bc2b-4ecc-907a-c2d6e9061774
+
+java:S1854e"CRemove this useless assignment to local variable "c_en_posicion_i".(âšÄJ$bfe7d215-beb2-4337-8fb5-cb2c74a57637
+
+java:S1854^"ERemove this useless assignment to local variable "array_de_clientes".(×‘Ô¸J$2615b2b0-53f2-46c7-8bb2-73e438a8b700
+
+java:S1854Z"CRemove this useless assignment to local variable "array_de_object".(å¢–ÔJ$9bb84830-faff-4d9f-ba2c-1d87314082df
+k	java:S106-"+Replace this use of System.out by a logger.(˜‚…‹ıÿÿÿÿJ$1690ef4d-c517-40c6-a6eb-83b15c6cb0d0
+f	java:S106."+Replace this use of System.out by a logger.(ÆÀûıJ$a6ea2c16-4f25-44fd-97df-0aaeb5db09dc
+f	java:S106?"+Replace this use of System.out by a logger.(Áß‡ÜJ$3f216c50-95d2-4ecd-b6f9-1aef27366d00
+p
+java:S1481Z"4Remove this unused "array_de_object" local variable.(å¢–ÔJ$442a9b9a-a111-487f-beef-ce14580f36ae
+r
+java:S1481^"6Remove this unused "array_de_clientes" local variable.(×‘Ô¸J$52247bb8-4632-4930-9bfb-d4d2ad7c0bed
+p
+java:S1481e"4Remove this unused "c_en_posicion_i" local variable.(âšÄJ$f7e3a435-61db-47c8-b000-39a69eabddc8
+w
+java:S1481v"6Remove this unused "cliente_eliminado" local variable.(ğÔ·½ûÿÿÿÿJ$3b7409b5-8c62-443e-adb1-c0b8ec47e7c2
+m
+java:S1481z"1Remove this unused "indice_de_c4" local variable.(øÁ›‘J$ab22ebf8-e161-44f9-a076-b97fc24fbecd
+y
+java:S1481~"8Remove this unused "indice_ultimo_de_c3" local variable.(»òü’üÿÿÿÿJ$d385a4fa-9491-48e5-b61f-7c6a609f66f8
+u
+java:S1481"3Remove this unused "listas_iguales" local variable.(ÏÕ’êùÿÿÿÿJ$baad18e5-1c57-4df4-a904-7a45acc5c451

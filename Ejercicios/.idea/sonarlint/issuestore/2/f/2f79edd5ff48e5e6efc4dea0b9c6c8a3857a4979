@@ -1,0 +1,10 @@
+
+Œ	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ´»‰J$13181f61-67ec-445d-a4ec-4b1b0b9a68ab
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£±œŽJ$d0ad167b-def6-43ee-944e-24a59d45f2aa
+l
+java:S2160	"+Override the "equals" method in this class.(©’“¶þÿÿÿÿJ$e61bc01f-e78e-41ad-86df-86616478064b
+m
+java:S1948",Make "comparador" transient or serializable.(É£ÖÄýÿÿÿÿJ$6fec72e5-8721-4e83-99cf-5d3349f43d7a
+f	java:S106"+Replace this use of System.out by a logger.(ñò¹¿J$018fec90-ad6e-47b3-86cf-c622fe5d38da
+k	java:S106"+Replace this use of System.out by a logger.(©©òˆüÿÿÿÿJ$276abc62-c3d7-468d-addd-92203d893d42
+k	java:S106""+Replace this use of System.out by a logger.(õ€ÎüüÿÿÿÿJ$94824126-47be-4cf2-aff0-d73cb27514dd

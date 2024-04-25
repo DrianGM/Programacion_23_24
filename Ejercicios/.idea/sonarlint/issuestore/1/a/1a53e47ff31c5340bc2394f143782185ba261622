@@ -1,0 +1,10 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İÈ¾ûÿÿÿÿJ$4eee4f64-6b85-485f-a907-9fd52f41c9ee
+k	java:S106"+Replace this use of System.out by a logger.(æ¨¤šøÿÿÿÿJ$1de1944d-8851-460d-ac9a-28649e3b123c
+f	java:S106"+Replace this use of System.out by a logger.(ÚíÖJ$9cd35046-6b2d-4488-adcd-654db2aa0bbb
+k	java:S106("+Replace this use of System.out by a logger.(’»ú¿ûÿÿÿÿJ$280c3eb7-3cb3-4d76-ba5e-63ca0ffbd722
+k	java:S106+"+Replace this use of System.out by a logger.(ÑÎÙÿıÿÿÿÿJ$fc3ac252-135e-4aeb-9f85-e11a4cae99cb
+k	java:S106J"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿJ$a1b38106-aa1f-4d65-b1f5-0e673cbe8575
+k	java:S106R"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿJ$d7cf1456-5bef-4225-943c-b7c588b60413
+o
+java:S1068	"3Remove this unused "nombreInstituto" private field.(Ã™¶J$adc17fba-2eec-4cd6-bf0e-801aa583de7b
