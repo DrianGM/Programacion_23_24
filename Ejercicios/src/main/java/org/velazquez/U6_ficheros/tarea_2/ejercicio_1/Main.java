@@ -11,7 +11,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         System.out.println("Ingresa un double:");
         double num = sc.nextDouble();
-        try (DataOutputStream dos = new DataOutputStream(new FileOutputStream (new File("C:\\Users\\Adria\\Programacion_23_24\\Ejercicios\\src\\main\\java\\org\\velazquez\\U6_ficheros\\tarea_2\\ejercicio_1\\archivo.bin")));){
+        try (DataOutputStream dos = new DataOutputStream(new FileOutputStream ("C:\\Users\\Adria\\Programacion_23_24\\Ejercicios\\src\\main\\java\\org\\velazquez\\U6_ficheros\\tarea_2\\ejercicio_1\\archivo.bin"))){
             dos.writeDouble(num);
             System.out.println("El número ha sido guardado en archivo.bin.");
         } catch (IOException e) {
