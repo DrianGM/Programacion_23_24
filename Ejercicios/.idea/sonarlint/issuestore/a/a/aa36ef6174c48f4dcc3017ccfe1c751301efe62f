@@ -1,6 +1,6 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ï÷»8’÷¨Ñğ1J$36cc63c2-0354-4d4c-a46f-41a5beb0cb9b
-r	java:S106"+Replace this use of System.out by a logger.(ö„¶¢ıÿÿÿÿ8±÷¨Ñğ1J$3eaf82ab-3242-42a5-892b-40e063008b45
-l	java:S106"+Replace this use of System.out by a logger.(ÏÛàS8Á÷¨Ñğ1J$67e8d1ea-c424-4ad8-9c5f-e09988c16618
-F
-java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8í¢çÜò1
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ï÷»8’÷¨Ñğ1J$1e7dc2b3-e914-4818-9744-5a726728b4a2
+r	java:S106"+Replace this use of System.out by a logger.(ö„¶¢ıÿÿÿÿ8±÷¨Ñğ1J$036abc8d-aebc-4540-bc73-fb17b4eb3009
+l	java:S106"+Replace this use of System.out by a logger.(ÏÛàS8Á÷¨Ñğ1J$831c0916-0155-49a0-a569-c79121e054ed
+l
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8í¢çÜò1J$632bc0e8-b4c6-42e3-aa95-3127028761ac

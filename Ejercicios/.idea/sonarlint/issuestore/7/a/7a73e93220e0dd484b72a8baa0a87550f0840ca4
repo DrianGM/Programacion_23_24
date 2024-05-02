@@ -1,11 +1,12 @@
 
 d
-java:S1643"Use a StringBuilder instead.(â£¬„úÿÿÿÿ8±İß±å1J$563f14cf-4225-4edc-a271-ef6f2c64dd75
+java:S1643"Use a StringBuilder instead.(â£¬„úÿÿÿÿ8±İß±å1J$f66ab16c-51cc-4d19-a633-a33ac20939e0
 d
-java:S1643"Use a StringBuilder instead.(â£¬„úÿÿÿÿ8€¥ä±å1J$321db4ab-8b31-4e7a-833d-6276bf72cfa3
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(öï¨8À½Ñ±å1J$8061a196-8d66-4be7-82fe-9a221b3310f7
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…¤Ç¡8Á½Ñ±å1J$adc63216-391f-48f5-b241-f17440e1e189
+java:S1643""Use a StringBuilder instead.(â£¬„úÿÿÿÿ8€¥ä±å1J$84cd8f9e-6745-461b-b7a4-310ad8cbbedc
+	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(öï¨8À½Ñ±å1J$08e2d586-6270-41f2-833c-69190a76ba1c
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…¤Ç¡8Á½Ñ±å1J$b2bd4eb9-3689-42cf-af18-525e1949a6a4
 •
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘8•êã±å1J$3e054f8e-13c5-401c-9fb7-bca4c66054d3
-r	java:S106	"+Replace this use of System.out by a logger.(ª¹·×ùÿÿÿÿ8ƒ¾Ñ±å1J$0dae1a53-3565-4b4b-8dbb-510aeef1605e
-m	java:S106 "+Replace this use of System.out by a logger.(µ„ò8£‘å±å1J$eda197e6-7db9-4839-a4b8-8c38fbf1031a
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘8•êã±å1J$f9e0007b-4070-401f-b1c7-dd9c93917535
+r	java:S106"+Replace this use of System.out by a logger.(ª¹·×ùÿÿÿÿ8ƒ¾Ñ±å1J$1040c020-bab6-409b-8bd0-bdbb54b17740
+m	java:S106$"+Replace this use of System.out by a logger.(µ„ò8£‘å±å1J$ec2f2517-c94a-4359-a36a-a952f50ae141

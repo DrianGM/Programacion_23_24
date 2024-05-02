@@ -1,0 +1,18 @@
+
+a
+java:S11923"KDefine a constant instead of duplicating this literal "El numero " 4 times.(ğ’ü®
+[
+java:S2184$"ECast one of the operands of this subtraction operation to a "double".(»’ØÖ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­ƒ¿D
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(Çµí‘
+E	java:S106
+"+Replace this use of System.out by a logger.(ôÂª«şÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ö¨ú„ıÿÿÿÿ
+?	java:S106)"+Replace this use of System.out by a logger.(ÄäŞ
+@	java:S106*"+Replace this use of System.out by a logger.(·©ºİ
+@	java:S106+"+Replace this use of System.out by a logger.(ŒòÚ
+@	java:S1063"+Replace this use of System.out by a logger.(ğ’ü®
+@	java:S1065"+Replace this use of System.out by a logger.(Ã³ıõ
+@	java:S106>"+Replace this use of System.out by a logger.(ÕÿÎ
+@	java:S106@"+Replace this use of System.out by a logger.(È¢Šî

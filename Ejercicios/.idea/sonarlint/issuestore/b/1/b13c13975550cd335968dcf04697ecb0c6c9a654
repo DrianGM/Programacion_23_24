@@ -1,4 +1,14 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø£”Ò8øêëİò1
-G	java:S106"+Replace this use of System.out by a logger.(½Ê¦Â8†ëëİò1
-G	java:S106"+Replace this use of System.out by a logger.(ÃÙ·Î8ˆëëİò1
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø£”Ò8æšÖó1J$3f7b2a6e-c1f8-4290-af15-593d751afd9a
+j
+java:S2189M""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ËÛÖó1J$4bbefec5-01be-4bab-b92c-25efd401e111
+
+java:S3824"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(Êä°óøÿÿÿÿ8 æšÖó1J$511219d8-8b7a-4d59-91c9-d59913db1264
+m	java:S106"+Replace this use of System.out by a logger.(½Ê¦Â8§æšÖó1J$b5bc2488-dcb8-4de2-88ac-cfaebce2bcfb
+m	java:S106&"+Replace this use of System.out by a logger.(ÃÙ·Î8©æšÖó1J$0cd88ef9-096b-4e96-96ab-e56a3f8ea9d6
+r	java:S1063"+Replace this use of System.out by a logger.(Ï³Ãıÿÿÿÿ8«æšÖó1J$c4e1a331-a231-4912-bf8b-51be61df6b9b
+m	java:S1066"+Replace this use of System.out by a logger.(Õìã¨8¬æšÖó1J$a478f2a3-eaed-4b47-8103-1fc8b3c58a2d
+m	java:S106?"+Replace this use of System.out by a logger.(Õìã¨8²æšÖó1J$74d8246d-f36d-4fe9-8e9b-74b767349852
+m	java:S106G"+Replace this use of System.out by a logger.(Õìã¨8´æšÖó1J$3ce735f6-bcf7-4710-acfc-34a22828c1c0
+m	java:S106T"+Replace this use of System.out by a logger.(Ùú¿8¢ø›Öó1J$c0435f04-a18c-4b04-a99c-f4e2afef09b2
+m	java:S106`"+Replace this use of System.out by a logger.(èŒ’á8ªœœÖó1J$a1b522f2-dd73-4ba1-a64b-ef0878e692dd

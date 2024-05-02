@@ -1,9 +1,9 @@
 
-›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(é×…i8–ËÑÑğ1J$ff9c5c14-46f1-4a76-aa14-ce9339e43db1
-j
-java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ÊıìÑğ1J$a0814870-2555-49aa-a3db-d384d91b670d
-m	java:S106	"+Replace this use of System.out by a logger.(òöïŠ8¦ËÑÑğ1J$65ec71b2-7eb6-4204-b36c-699668aa80aa
-m	java:S106"+Replace this use of System.out by a logger.(òöïŠ8«ÑİÑğ1J$a4654290-990b-48e8-97bd-a6becb54ee11
-l	java:S106"+Replace this use of System.out by a logger.(‚éÉo8˜ÃßÑğ1J$ecbea629-626a-49fa-b0d5-9fa6208eec85
-r	java:S106"+Replace this use of System.out by a logger.(³×ñàüÿÿÿÿ8£¡íÑğ1J$b4c6cfbb-cd68-4f25-8921-8a1deef0038c
-l	java:S106"+Replace this use of System.out by a logger.(™áü8™¹ôÑğ1J$71c67d1e-5d4a-4ed5-bb8c-fdb3fa52da3b
+”	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(é×…iJ$b6a60de2-9e6c-47f5-a373-c334b9464060
+„
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ß‡–¸8³ïáÒó1J$0cbdecee-0c5d-4505-b40f-f13ef255d582
+r	java:S106"+Replace this use of System.out by a logger.(ÕÁøÿÿÿÿ8Ê½áÒó1J$d8792225-c9ce-468a-a335-01fbdebf14d5
+r	java:S106"+Replace this use of System.out by a logger.(¢¼àşÿÿÿÿ8Î½áÒó1J$153bfcbf-d152-4b31-87d2-03473bf8f258
+m	java:S106"+Replace this use of System.out by a logger.(ş”²¼8Ñ½áÒó1J$9f205896-1fb6-44c4-9c88-b2ceea32cafa
+r	java:S106"+Replace this use of System.out by a logger.(í Âõøÿÿÿÿ8Ò½áÒó1J$1f7ae353-6044-4995-b7e3-b8777330b354
+r	java:S106!"+Replace this use of System.out by a logger.(©¶ °ÿÿÿÿÿ8¼šãÒó1J$2ee6486d-d3eb-4156-848a-68905ec25a07

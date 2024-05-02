@@ -1,0 +1,56 @@
+
+o
+java:S1192"YDefine a constant instead of duplicating this literal "Entradas individuales : " 6 times.(ÑÇø‚
+}
+java:S1192"bDefine a constant instead of duplicating this literal "Precio por entrada individual : 8" 6 times.(ïªÃßÿÿÿÿÿ
+^
+java:S2184"HCast one of the operands of this multiplication operation to a "double".(®ßò
+^
+java:S2184"HCast one of the operands of this multiplication operation to a "double".(®ßò
+c
+java:S2184"HCast one of the operands of this multiplication operation to a "double".(…—ãöÿÿÿÿÿ
+X
+java:S2184+"BCast one of the operands of this addition operation to a "double".(§’©”
+^
+java:S2184/"HCast one of the operands of this multiplication operation to a "double".(®ßò
+^
+java:S21844"HCast one of the operands of this multiplication operation to a "double".(®ßò
+^
+java:S21849"HCast one of the operands of this multiplication operation to a "double".(®ßò
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­ƒ¿D
+@	java:S106"+Replace this use of System.out by a logger.(éÇì‡
+E	java:S106	"+Replace this use of System.out by a logger.(Ş­‡§ùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ü¥‰—üÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Ş€Ó†
+@	java:S106"+Replace this use of System.out by a logger.(Ùÿ²ƒ
+c
+java:S18712"HThis case's code block is the same as the block for the case on line 24.(ƒ¸À¼ıÿÿÿÿ
+c
+java:S18717"HThis case's code block is the same as the block for the case on line 24.(ñ°şŠúÿÿÿÿ
+c
+java:S1871-"HThis case's code block is the same as the block for the case on line 24.(ŞÙ¸Æúÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÑÇø‚
+E	java:S106"+Replace this use of System.out by a logger.(ïªÃßÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÑÇø‚
+E	java:S106"+Replace this use of System.out by a logger.(ïªÃßÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÑÇø‚
+@	java:S106 "+Replace this use of System.out by a logger.(ÂÃÊÌ
+@	java:S106%"+Replace this use of System.out by a logger.(°±´·
+E	java:S106&"+Replace this use of System.out by a logger.(ïªÃßÿÿÿÿÿ
+E	java:S106)"+Replace this use of System.out by a logger.(¡ºæüÿÿÿÿ
+E	java:S106*"+Replace this use of System.out by a logger.(Ê¶‰…ÿÿÿÿÿ
+@	java:S106."+Replace this use of System.out by a logger.(ÑÇø‚
+E	java:S1060"+Replace this use of System.out by a logger.(ïªÃßÿÿÿÿÿ
+@	java:S1063"+Replace this use of System.out by a logger.(ÑÇø‚
+E	java:S1065"+Replace this use of System.out by a logger.(ïªÃßÿÿÿÿÿ
+@	java:S1068"+Replace this use of System.out by a logger.(ÑÇø‚
+E	java:S106:"+Replace this use of System.out by a logger.(ïªÃßÿÿÿÿÿ
+E	java:S106="+Replace this use of System.out by a logger.(ª¬âïÿÿÿÿÿ
+E	java:S106?"+Replace this use of System.out by a logger.(éƒ¥÷ÿÿÿÿÿ
+<	java:S131@""Add a default case to this switch.(Ç®ìùÿÿÿÿ
+f
+java:S1301@"KReplace this "switch" statement by "if" statements to increase readability.(Ç®ìùÿÿÿÿ
+E	java:S106B"+Replace this use of System.out by a logger.(•ôÃÔıÿÿÿÿ
+?	java:S106D"+Replace this use of System.out by a logger.(ØÙÀM
+@	java:S106G"+Replace this use of System.out by a logger.(ïßêõ
+?	java:S106H"+Replace this use of System.out by a logger.(ØÙÀM
