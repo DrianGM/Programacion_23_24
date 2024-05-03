@@ -1,0 +1,27 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Û‚ë¿
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(šµÑ›
+>
+java:S2140")Use "java.util.Random.nextInt()" instead.(éÝÆ0
+7	java:S131""Add a default case to this switch.(ÛßÛÞ
+?	java:S106
+"+Replace this use of System.out by a logger.(×òë}
+@	java:S106"+Replace this use of System.out by a logger.(Ôþ…€
+E	java:S106"+Replace this use of System.out by a logger.(›µ·•üÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(‡…Îò
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(ˆµôÉ
+<	java:S131""Add a default case to this switch.(Ï÷ÖÂÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ü­½Ï
+@	java:S106"+Replace this use of System.out by a logger.(ØÇ€ã
+E	java:S106 "+Replace this use of System.out by a logger.(×ûêúÿÿÿÿ
+E	java:S106#"+Replace this use of System.out by a logger.(Ž¾’ øÿÿÿÿ
+E	java:S106&"+Replace this use of System.out by a logger.(ÄÁ½áüÿÿÿÿ
+@	java:S106)"+Replace this use of System.out by a logger.(½‡Å‰
+E	java:S106,"+Replace this use of System.out by a logger.(ƒ¦×®ÿÿÿÿÿ
+E	java:S106/"+Replace this use of System.out by a logger.(¢Õ•Áýÿÿÿÿ
+@	java:S1062"+Replace this use of System.out by a logger.(”š™ý
+@	java:S1065"+Replace this use of System.out by a logger.(û„¯¸
+?	java:S1068"+Replace this use of System.out by a logger.(¡ðX
+E	java:S106;"+Replace this use of System.out by a logger.(“€Ñÿÿÿÿÿ
+E	java:S106>"+Replace this use of System.out by a logger.(”Ï¤“ûÿÿÿÿ

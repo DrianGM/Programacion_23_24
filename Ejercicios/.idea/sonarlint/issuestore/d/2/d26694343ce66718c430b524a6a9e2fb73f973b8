@@ -1,0 +1,12 @@
+
+”	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¦­·|J$6a7ce0d3-b192-482d-907c-f8b5a31a5764
+}
+java:S1854":Remove this useless assignment to local variable "libro3".(û™„û8¥‹øÔó1J$2df4a6a8-2ae3-4a3b-b1f0-b582be272dce
+n
+java:S1481"+Remove this unused "libro3" local variable.(û™„û8¨‹øÔó1J$604a81e8-a71e-4796-8835-fec5710ec59a
+m	java:S106	"+Replace this use of System.out by a logger.(Ëÿş¥8ª‹øÔó1J$3e3b699a-bc1d-48b7-b65f-918660026d62
+r	java:S106
+"+Replace this use of System.out by a logger.(×ù‰ƒÿÿÿÿÿ8÷ùÔó1J$6cc5e72c-cf15-4c32-8f8c-e4e6fcd88aac
+m	java:S106"+Replace this use of System.out by a logger.(ı·’‚8÷ùÔó1J$456bbfdd-49b1-46f0-b4b4-b47e281fc14e
+r	java:S106"+Replace this use of System.out by a logger.(–âçæùÿÿÿÿ8÷ùÔó1J$a5e8a48e-c515-41ad-8e6a-f69cb2359175
+r	java:S106"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8÷ùÔó1J$a87799a1-575d-4255-a256-a7b1907da774

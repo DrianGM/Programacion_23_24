@@ -1,6 +1,6 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸÄ§Ã8†Õ’Òğ1J$5bb08ebe-157c-4634-ac2d-54e6db1210d7
-–
-java:S2095"NUse try-with-resources or close this "DataOutputStream" in a "finally" clause.(ª’ßãÿÿÿÿÿ8Õ’Òğ1J$b1d46fba-024a-4540-abac-d7198de9db16
-r	java:S106	"+Replace this use of System.out by a logger.(à±¿Èûÿÿÿÿ8Õ’Òğ1J$3b0f823f-3870-4f6f-b1df-9b6074b3d5b3
-m	java:S106"+Replace this use of System.out by a logger.(’éÑ˜8Õ’Òğ1J$94f0ea60-d976-4b09-9168-2543ded1ee89
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸÄ§Ã8†Õ’Òğ1J$ecd812b6-8790-45f7-8a36-1aed683701e4
+r	java:S106"+Replace this use of System.out by a logger.(à±¿Èûÿÿÿÿ8Õ’Òğ1J$db445302-69cb-4df3-9210-8eb06c9051d7
+m	java:S106"+Replace this use of System.out by a logger.(’éÑ˜8Õ’Òğ1J$a8ea079e-516c-403c-9ec8-451772fc4ac7
+r	java:S106"+Replace this use of System.out by a logger.(¶ı™øÿÿÿÿ8¨ÛÈÒó1J$3d0e8689-0828-4873-9192-82a98a728567
+r	java:S106"+Replace this use of System.out by a logger.(©¶ °ÿÿÿÿÿ8¾¬åÒó1J$1039aee8-8fb6-47dc-85ad-d07bb40632ac

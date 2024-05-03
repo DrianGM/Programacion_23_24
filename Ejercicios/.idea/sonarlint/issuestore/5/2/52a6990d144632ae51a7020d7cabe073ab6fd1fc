@@ -1,0 +1,24 @@
+
+W
+java:S2184"BCast one of the operands of this addition operation to a "double".(£ƒ¡?
+]
+java:S2184#"BCast one of the operands of this addition operation to a "double".(ÙÀñ¡ÿÿÿÿÿ
+W
+java:S2184("BCast one of the operands of this addition operation to a "double".(£ƒ¡?
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(è¾©\
+E	java:S106"+Replace this use of System.out by a logger.(ÆüıÍıÿÿÿÿ
+@	java:S106	"+Replace this use of System.out by a logger.(™›ôº
+@	java:S106"+Replace this use of System.out by a logger.(îÖ–
+@	java:S106"+Replace this use of System.out by a logger.(øÑèá
+@	java:S106"+Replace this use of System.out by a logger.(³ÙÑÉ
+@	java:S106"+Replace this use of System.out by a logger.(†æŸ
+E	java:S106"+Replace this use of System.out by a logger.(Á‘¸ùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ú°ºÌøÿÿÿÿ
+@	java:S106$"+Replace this use of System.out by a logger.(Õ¹œü
+E	java:S106+"+Replace this use of System.out by a logger.(ª¬âïÿÿÿÿÿ
+E	java:S106-"+Replace this use of System.out by a logger.(éƒ¥÷ÿÿÿÿÿ
+?	java:S1062"+Replace this use of System.out by a logger.(İ¤·h
+?	java:S1063"+Replace this use of System.out by a logger.(ØÙÀM
+?	java:S1066"+Replace this use of System.out by a logger.(İ¤·h
+?	java:S1067"+Replace this use of System.out by a logger.(ØÙÀM
+@	java:S106:"+Replace this use of System.out by a logger.(‹–Çû

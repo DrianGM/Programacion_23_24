@@ -1,7 +1,8 @@
 
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚êåÙJ$92d690f0-1477-4f4d-b39d-950b96fd23d8
-j
-java:S2189
-""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8Ÿ€™Òð1J$1e2f477d-750c-4a8c-9f4a-99e5cb1e9813
-r	java:S106"+Replace this use of System.out by a logger.(¼êëµúÿÿÿÿ8¯€™Òð1J$b2be9a07-59e3-4b7c-9946-1330b3be1488
-l	java:S106"+Replace this use of System.out by a logger.(™áü8ý¾™Òð1J$779e36d1-44dd-4d70-bffb-afbbc2f782d9
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‚êåÙJ$7fab5460-7552-4148-92c7-c2547fb4a7d6
+G	java:S106"+Replace this use of System.out by a logger.(•Ü´Ø8·ì§Óó1
+L	java:S106"+Replace this use of System.out by a logger.(ƒìîüýÿÿÿÿ8¹ì§Óó1
+L	java:S106"+Replace this use of System.out by a logger.(©¶ °ÿÿÿÿÿ8¼ì§Óó1
+F	java:S106"+Replace this use of System.err by a logger.(å´Òx8¿ì§Óó1
+|
+java:S1128"4Remove this unused import 'java.io.DataInputStream'.(”•úºÿÿÿÿÿ8Š¹ÓÒó1J$32fc6505-e087-473c-9616-f6701459908a
