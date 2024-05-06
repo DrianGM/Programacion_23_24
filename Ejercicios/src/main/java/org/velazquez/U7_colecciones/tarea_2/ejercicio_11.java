@@ -1,5 +1,7 @@
 package org.velazquez.U7_colecciones.tarea_2;
 
+//Diseñar un método que devuelva la diferencia de dos conjuntos (elementos que pertenecen al primero, pero no al segundo).
+
 import java.util.HashSet;
 import java.util.Set;
 

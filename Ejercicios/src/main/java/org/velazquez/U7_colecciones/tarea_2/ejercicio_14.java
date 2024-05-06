@@ -1,5 +1,10 @@
 package org.velazquez.U7_colecciones.tarea_2;
 
+//Implementar la función leeCadena con el siguiente prototipo:
+//
+//List<Character> leeCadena()
+//Dicha función lee una cadena por teclado y nos la devuelve en una lista con un carácter en cada nodo.
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;

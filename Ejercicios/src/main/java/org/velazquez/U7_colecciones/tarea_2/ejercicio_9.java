@@ -1,5 +1,7 @@
 package org.velazquez.U7_colecciones.tarea_2;
 
+//Implementar el método unión de dos conjuntos, que devuelva un nuevo conjunto con todos los elementos que pertenezcan, al menos, a uno de los dos conjuntos.
+
 import java.util.Set;
 import java.util.HashSet;
 

@@ -1,8 +1,0 @@
-
-“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş£«€8·ÍÉ…å1J$8d5e0c6f-dce8-49f8-8440-d8a10f18e8b5
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â×«Ôşÿÿÿÿ8¸ÍÉ…å1J$fcbfa7a5-4b80-43a6-8936-95bcd36c361b
-	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(É¢´¥8¹ÍÉ…å1J$315ec781-917b-449b-8eb8-8eccf473e8d9
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…¤Ç¡8»ÍÉ…å1J$34718c67-1e38-475f-964e-a69d43942601
-q
-java:S2140")Use "java.util.Random.nextInt()" instead.(öŞñíıÿÿÿÿ8ÑÍÉ…å1J$28cec38c-b1b4-461e-952c-f3d746eec465
-m	java:S106 "+Replace this use of System.out by a logger.(µ„ò8æğİ…å1J$1aad8219-b3fc-4ba5-96e1-557fdcd7f762

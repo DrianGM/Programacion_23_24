@@ -1,5 +1,7 @@
 package org.velazquez.U7_colecciones.tarea_2;
 
+//Escribir el método incluido(), que devuelve true si todos los elementos del primer conjunto pertenecen al segundo y false si hay algún elemento del primero que no pertenezca al segundo.
+
 import java.util.HashSet;
 import java.util.Set;
 

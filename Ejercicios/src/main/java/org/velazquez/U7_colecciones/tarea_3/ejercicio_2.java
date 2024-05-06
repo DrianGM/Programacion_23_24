@@ -1,5 +1,7 @@
 package org.velazquez.U7_colecciones.tarea_3;
 
+//Añada al programa anterior la siguiente funcionalidad. El programa pedirá al usuario un dni, calculará la clave que ha de consultar, comprobará que dicha clave existe, y, en tal caso, mostrará el valor asociado a esa clave en el HashMap.
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;

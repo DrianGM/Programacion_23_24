@@ -1,0 +1,19 @@
+
+‹
+java:S1192"HDefine a constant instead of duplicating this literal "name = " 4 times.(Æƒ™¸8ûºÍæô1J$500793f7-0062-45cd-b10d-ed21909c1146
+
+java:S1192"FDefine a constant instead of duplicating this literal "id = " 3 times.(×İ‰”şÿÿÿÿ8»Íæô1J$acc37946-d144-40ad-b9fe-d96fcae83fa9
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­Ÿ¼8¡ Íæô1J$726dcbeb-0bbf-40a1-add6-6b494ada53c7
+
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8¡Íæô1J$0d730814-dd30-437b-a666-a06304c58ae1
+m	java:S106"+Replace this use of System.out by a logger.(Æƒ™¸8§¡Íæô1J$de8224a9-7788-450c-89d0-24d5c4376e78
+r	java:S106"+Replace this use of System.out by a logger.(×İ‰”şÿÿÿÿ8§¡Íæô1J$14817ff9-c1b8-485b-bb1d-722e12760750
+r	java:S106"+Replace this use of System.out by a logger.(ÀÏ°ıÿÿÿÿ8§¡Íæô1J$7484e5d0-f4f2-4545-880b-db29ef6f0bd9
+m	java:S106"+Replace this use of System.out by a logger.(ŸëŠ8§¡Íæô1J$7d82006c-307c-4075-9fc4-f0d6daf05b72
+r	java:S106"+Replace this use of System.out by a logger.(×Ÿëêøÿÿÿÿ8§¡Íæô1J$aeb545b2-bb8e-41b7-b56c-6df1c9af4da3
+r	java:S106"+Replace this use of System.out by a logger.(ÀÏ°ıÿÿÿÿ8®½Íæô1J$3a3d6be5-07ee-4707-97b3-b1f920e4c8fe
+m	java:S106""+Replace this use of System.out by a logger.(‘œ–—8®½Íæô1J$f0c49ea7-1ddf-4386-be59-6f76198d558d
+m	java:S106#"+Replace this use of System.out by a logger.(é†¬Û8Œ±Ïæô1J$8bcbfac1-de41-4206-ad53-4c9634a2cf56
+m	java:S106$"+Replace this use of System.out by a logger.(³Ù¸•8äàÑæô1J$0d4d64b9-f3a5-43d5-9e07-8f89149e4b5b
+r	java:S106'"+Replace this use of System.err by a logger.(ÓŞ¿¤øÿÿÿÿ8§¡Íæô1J$f243241c-d4a8-464d-b492-09af056f8290
+m	java:S106,"+Replace this use of System.err by a logger.(·Ì”8®¡Íæô1J$90be6a66-818f-4d04-b832-e4f549b89612

@@ -1,9 +1,0 @@
-
-”	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(é×…iJ$37a5a48d-455b-49c0-9f80-cabd88379bd2
-„
-java:S1075	"ARefactor your code to get this URI from a customizable parameter.(ß‡–¸8³ïáÒó1J$c5feb7f3-a703-4f3c-b626-a6d70d40b888
-r	java:S106"+Replace this use of System.out by a logger.(ÕÁøÿÿÿÿ8Ê½áÒó1J$a7dfd720-bd32-4bb3-b3bb-e05de72ad9dd
-r	java:S106"+Replace this use of System.out by a logger.(¢¼àşÿÿÿÿ8Î½áÒó1J$7778f84a-86d6-45fa-989d-b5c59dc96030
-m	java:S106"+Replace this use of System.out by a logger.(ş”²¼8Ñ½áÒó1J$a8c35465-240f-4094-9519-a7e3869a7a50
-r	java:S106"+Replace this use of System.out by a logger.(í Âõøÿÿÿÿ8Ò½áÒó1J$285a0ceb-07b7-49b5-9577-4d0ded4d6865
-r	java:S106"+Replace this use of System.out by a logger.(©¶ °ÿÿÿÿÿ8¼šãÒó1J$99f809e1-d5c3-485b-a1db-c56e812cc09e

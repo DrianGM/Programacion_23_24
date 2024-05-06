@@ -1,5 +1,7 @@
 package org.velazquez.U7_colecciones.tarea_2;
 
+//Hacer lo mismo que en el ejercicio anterior con la intersección , formada por los elementos comunes a los dos conjuntos.
+
 import java.util.HashSet;
 import java.util.Set;
 

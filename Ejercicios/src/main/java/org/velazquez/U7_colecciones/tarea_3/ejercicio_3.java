@@ -1,5 +1,7 @@
 package org.velazquez.U7_colecciones.tarea_3;
 
+//Recorre el Map anterior, extrayendo cada pareja clave-valor, y mostrándolas
+
 import java.util.HashMap;
 import java.util.Map;
 

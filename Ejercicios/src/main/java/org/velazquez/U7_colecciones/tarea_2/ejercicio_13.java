@@ -1,5 +1,7 @@
 package org.velazquez.U7_colecciones.tarea_2;
 
+//Implementar una función a la que se le pasen dos listas ordenadas y nos devuelva una única lista, fusión de las dos anteriores. Desarrollar el algoritmo de forma no destructiva, es decir, que las listas utilizadas como parámetros de entrada se mantengan intactas.
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
