@@ -1,13 +1,0 @@
-
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®ŠÞóýÿÿÿÿ8à´µ×ó1J$a9e0f830-6e8d-4d1b-a557-0207ef4ccb81
-É
-java:S1186!"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÐÞêƒþÿÿÿÿ8ä´µ×ó1J$b6ce9a66-127e-449c-9e0a-fa00c550ac4c
-m	java:S106"+Replace this use of System.out by a logger.(°“Çð8é´µ×ó1J$200b4b3f-91fc-4f24-8cd5-959c2182f388
-m
-java:S3457"%String contains no format specifiers.(Ü·µÌþÿÿÿÿ8ì´µ×ó1J$1083019f-42a7-4a3d-9b07-e2472581d3b6
-r	java:S106"+Replace this use of System.out by a logger.(Ü·µÌþÿÿÿÿ8í´µ×ó1J$30579acd-bba6-4e54-b482-9b91df4c0642
-w
-java:S1068	"4Remove this unused "nombreCientifico" private field.(—€Â‰8î´µ×ó1J$c580e7cc-5e14-48e6-b6ef-d4b43afb94b9
-u
-java:S1068
-"-Remove this unused "localidad" private field.(ÍŒ÷÷øÿÿÿÿ8î´µ×ó1J$5e53b3bc-3239-48e0-9513-93122ff7b77e
