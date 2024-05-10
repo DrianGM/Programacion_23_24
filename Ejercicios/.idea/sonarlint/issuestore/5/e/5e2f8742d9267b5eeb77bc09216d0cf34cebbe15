@@ -1,0 +1,4 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹ƒ‘‹
+E	java:S106"+Replace this use of System.out by a logger.(€Î³Áûÿÿÿÿ
+fsecrets:S6703"HMake sure this database password gets changed and removed from the code.(è‡Ÿüÿÿÿÿ

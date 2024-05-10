@@ -1,0 +1,14 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(öð«¨
+E
+java:S37403"/Provide the parametrized type for this generic.(¼é«Ø
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹ƒ‘‹
+]
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(œïì”
+]
+java:S20959"GUse try-with-resources or close this "Statement" in a "finally" clause.(œïì”
+:
+java:S6905"Don't use the query "SELECT *".(õªÅ’ùÿÿÿÿ
+5
+java:S6905;"Don't use the query "SELECT *".(‰Ù‚Þ

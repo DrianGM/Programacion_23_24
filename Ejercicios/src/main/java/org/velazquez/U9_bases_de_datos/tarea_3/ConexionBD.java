@@ -1,4 +1,4 @@
-package org.velazquez.U9_bases_de_datos.tarea_2;
+package org.velazquez.U9_bases_de_datos.tarea_3;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

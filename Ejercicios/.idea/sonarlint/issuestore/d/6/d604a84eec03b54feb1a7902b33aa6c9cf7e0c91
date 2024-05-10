@@ -1,4 +1,14 @@
 
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ãû‹‘J$35023738-f83c-46cf-8f45-6f3c9f1a869c
-_
-java:S2094"BRemove this empty class, write its code or make it an "interface".(¸Ş¹¦8Œ•øõ1
+r
+java:S3740"/Provide the parametrized type for this generic.(öğ«¨8¹°İ‹ö1J$e4cec3fb-3d79-4781-bc6b-c5e21f27e659
+r
+java:S3740/"/Provide the parametrized type for this generic.(¼é«Ø8¸ûé‹ö1J$0a0cb8d8-3a79-40f3-b56d-f099023e6685
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ãû‹‘8¹°İ‹ö1J$022b819c-488e-44b9-8534-a803457b0c1f
+Š
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(œïì”8Øûé‹ö1J$c592a5c6-3fb6-49c3-980f-50143e0964c2
+Š
+java:S20955"GUse try-with-resources or close this "Statement" in a "finally" clause.(œïì”8Øûé‹ö1J$7e43673e-ebb1-4b40-b222-df165f3750c1
+g
+java:S6905"Don't use the query "SELECT *".(õªÅ’ùÿÿÿÿ8Øûé‹ö1J$b28b76df-4a3c-46cf-86a9-ca30a39aee5f
+b
+java:S69057"Don't use the query "SELECT *".(‰Ù‚Ş8Øûé‹ö1J$284319be-c2d8-478c-a66e-7b07b310e348

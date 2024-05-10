@@ -1,5 +1,9 @@
-package org.velazquez.U9_bases_de_datos.tarea_2;
+package org.velazquez.U9_bases_de_datos.tarea_3;
 
+
+import org.velazquez.U9_bases_de_datos.tarea_2.ConexionBD;
+import org.velazquez.U9_bases_de_datos.tarea_2.Employee;
+import org.velazquez.U9_bases_de_datos.tarea_2.Office;
 
 import java.sql.Connection;
 import java.sql.ResultSet;

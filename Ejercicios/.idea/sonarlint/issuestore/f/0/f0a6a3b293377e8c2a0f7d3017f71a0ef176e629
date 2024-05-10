@@ -1,0 +1,8 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìºÁŒşÿÿÿÿ8ã“Œö1J$e7dec347-3929-45af-8c37-ce6805fe8192
+y
+java:S6437"6Revoke and change this password, as it is compromised.(Á–ø„8ìø³Œö1J$1093a9fa-7ea3-40df-bb8e-2227b640e6b0
+r	java:S106"+Replace this use of System.out by a logger.(õŸ¾Óùÿÿÿÿ8ìø³Œö1J$3c395b97-08e8-44b0-b735-973c116de4cc
+}	java:S125"<This block of commented-out lines of code should be removed.(Ñ£š8„¨½Œö1J$0f2c1af7-79c2-424d-adf4-56d0b4526f63
+p
+java:S1068"-Remove this unused "instancia" private field.(…øåº8×Á¿Œö1J$c86a708e-79be-48ed-b66f-cf1397d11666
