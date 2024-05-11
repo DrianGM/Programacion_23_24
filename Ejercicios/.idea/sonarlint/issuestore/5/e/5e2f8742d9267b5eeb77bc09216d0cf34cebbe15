@@ -1,4 +1,4 @@
 
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹ƒ‘‹
-E	java:S106"+Replace this use of System.out by a logger.(€Î³Áûÿÿÿÿ
-fsecrets:S6703"HMake sure this database password gets changed and removed from the code.(è‡Ÿüÿÿÿÿ
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹ƒ‘‹J$d1e343cd-ef53-4ba8-aa11-9ea904439d2c
+k	java:S106"+Replace this use of System.out by a logger.(€Î³ÁûÿÿÿÿJ$7222a525-0550-491a-9a80-dfa887197180
+Œsecrets:S6703"HMake sure this database password gets changed and removed from the code.(è‡ŸüÿÿÿÿJ$70268d7a-3ad8-4416-8383-41c93bb1ca8f

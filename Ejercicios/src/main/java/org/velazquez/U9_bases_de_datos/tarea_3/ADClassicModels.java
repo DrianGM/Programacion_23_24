@@ -20,7 +20,7 @@ public class ADClassicModels {
         con=connec.getConnection();
     }
 
-    public List getEmpleados(){
+    public void insertarCliente(Customer cus){
         List<Employee> empleados = new ArrayList<>();
 
         try {
@@ -44,8 +44,6 @@ public class ADClassicModels {
         } catch (SQLException e) {
             e.printStackTrace();
         }
-
-        return empleados;
     }
 
     public List getOffices(){

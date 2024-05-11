@@ -1,4 +1,4 @@
-package org.velazquez.U9_bases_de_datos.tarea_2;
+package org.velazquez.U9_bases_de_datos.tarea_3;
 
 public class Employee {
     private int employeeNumber;
@@ -82,11 +82,11 @@ public class Employee {
     @Override
     public String toString() {
         return "employeeNumber=" + employeeNumber +
-                ", lastName=" + lastName + '\'' +
-                ", firstName=" + firstName + '\'' +
-                ", extension=" + extension + '\'' +
-                ", email=" + email + '\'' +
-                ", officeCode=" + officeCode + '\'' +
+                ", lastName=" + lastName +
+                ", firstName=" + firstName +
+                ", extension=" + extension +
+                ", email=" + email +
+                ", officeCode=" + officeCode +
                 ", reportsTo=" + reportsTo +
                 ", jobTitle=" + jobTitle;
     }

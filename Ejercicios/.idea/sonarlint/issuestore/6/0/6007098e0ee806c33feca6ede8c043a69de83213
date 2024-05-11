@@ -1,14 +1,12 @@
 
-E
-java:S3740"/Provide the parametrized type for this generic.(öğ«¨
-E
-java:S37403"/Provide the parametrized type for this generic.(¼é«Ø
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹ƒ‘‹
-]
-java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(œïì”
-]
-java:S20959"GUse try-with-resources or close this "Statement" in a "finally" clause.(œïì”
-:
-java:S6905"Don't use the query "SELECT *".(õªÅ’ùÿÿÿÿ
-5
-java:S6905;"Don't use the query "SELECT *".(‰Ù‚Ş
+k
+java:S37401"/Provide the parametrized type for this generic.(¼é«ØJ$249ead10-2826-481a-ad12-46014af76d62
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹ƒ‘‹J$1a709a29-23a3-4748-8747-2bbea60a5023
+ƒ
+java:S20957"GUse try-with-resources or close this "Statement" in a "finally" clause.(œïì”J$3ecdcdce-118a-4543-8e41-e782c863e747
+m
+java:S1172"*Remove this unused method parameter "cus".(®ÛøÁ8Š²Ëö1J$ddcba811-717e-4739-affa-f47c839a8146
+`
+java:S6905"Don't use the query "SELECT *".(õªÅ’ùÿÿÿÿJ$423e81e6-805e-4d20-80f5-78ec91073344
+[
+java:S69059"Don't use the query "SELECT *".(‰Ù‚ŞJ$a090c9d4-00b5-44d2-a23e-e6e720f9f0b7
