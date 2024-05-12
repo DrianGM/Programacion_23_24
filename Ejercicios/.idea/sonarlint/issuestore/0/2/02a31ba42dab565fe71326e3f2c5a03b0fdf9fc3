@@ -1,0 +1,16 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö¢Öåüÿÿÿÿ
+œ
+java:S1186
+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(·ú¸øÿÿÿÿ
+8
+java:S1118
+"Hide this public constructor.(·ú¸øÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ï«±­úÿÿÿÿ
+L
+java:S6437"6Revoke and change this password, as it is compromised.(ß¬Âò
+E	java:S106"+Replace this use of System.out by a logger.(¸ÜÉñıÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ı™øøÿÿÿÿ
+E	java:S106$"+Replace this use of System.out by a logger.(ˆÎÎøøÿÿÿÿ
+@	java:S106'"+Replace this use of System.out by a logger.(”Êƒ
+fsecrets:S6703"HMake sure this database password gets changed and removed from the code.(’Â˜ùÿÿÿÿ

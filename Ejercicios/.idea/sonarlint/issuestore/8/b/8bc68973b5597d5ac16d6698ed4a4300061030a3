@@ -1,0 +1,7 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö¢Öåüÿÿÿÿ8»æÌõö1
+d
+java:S2094"BRemove this empty class, write its code or make it an "interface".(¶µ™Àüÿÿÿÿ8»æÌõö1
+]	java:S125"<This block of commented-out lines of code should be removed.(»•ûÿÿÿÿ8»æÌõö1
+B
+java:S1128"%Remove this unused import 'java.sql'.(´İ…Å8ÊæÌõö1
