@@ -1,5 +1,7 @@
 package org.velazquez.U9_bases_de_datos.Practica.Entregable_2021;
 
+import org.velazquez.U9_bases_de_datos.Entregable.CONEXIONBD;
+
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -22,29 +24,29 @@ public class Consultas {
         Connection connection = null;
 
         try {
-            connection = org.velazquez.U9_bases_de_datos.Practica.Entregable_2021.CONEXIONBD.getConnection();
+            connection = CONEXIONBD.getConnection();
 
-            String consultaProductos = "Select * from products where buyPrice > "+precio;
+            String consultaProductos = "Select * from products where buyPrice > " + precio;
 
             PreparedStatement pst = connection.prepareStatement(consultaProductos);
 
             ResultSet verificacion = pst.executeQuery();
 
             if (verificacion.next()) {
-                System.out.println("Productos cuyo buyPrice es mayor que '"+precio+"' : ");
+                System.out.println("Productos cuyo buyPrice es mayor que '" + precio + "' : ");
 
                 PreparedStatement mostrarProductos = connection.prepareStatement(consultaProductos);
 
                 ResultSet RSmostrarProductos = mostrarProductos.executeQuery();
 
                 while (RSmostrarProductos.next()) {
-                    System.out.println("Nombre del Producto: "+RSmostrarProductos.getString("productName"));
-                    System.out.println("Precio de compra: "+RSmostrarProductos.getDouble("buyPrice"));
+                    System.out.println("Nombre del Producto: " + RSmostrarProductos.getString("productName"));
+                    System.out.println("Precio de compra: " + RSmostrarProductos.getDouble("buyPrice"));
                     System.out.println("------------------------------------------------------------------------------");
                 }
 
             } else {
-                System.out.println("No se ha ingresado un precio valido. '"+precio+"' no es valido.");
+                System.out.println("No se ha ingresado un precio valido. '" + precio + "' no es valido.");
             }
         } catch (SQLException e) {
             e.getMessage();
@@ -118,7 +120,7 @@ public class Consultas {
         try {
             connection = org.velazquez.U9.CONEXIONBD.getConnection();
 
-            String verificarCategoria = "Select * from productlines where productLine = '" + nombreCategoria +"'";
+            String verificarCategoria = "Select * from productlines where productLine = '" + nombreCategoria + "'";
 
             PreparedStatement pst = connection.prepareStatement(verificarCategoria);
 
