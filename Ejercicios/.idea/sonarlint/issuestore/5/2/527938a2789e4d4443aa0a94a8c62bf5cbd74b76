@@ -1,5 +1,7 @@
 
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ö¢Öåüÿÿÿÿ
+×
+java:S1598"»This file "CONEXIONBD.java" should be located in "org\velazquez\U9" directory, not in "C:\Users\Adria\Programacion_23_24\Ejercicios\src\main\java\org\velazquez\U9_bases_de_datos\tarea_3".(œÔúœÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œÔúœÿÿÿÿÿ
 œ
 java:S1186
 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(·ú¸øÿÿÿÿ
