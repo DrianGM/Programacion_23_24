@@ -1,0 +1,14 @@
+
+ë
+java:S1598"ÈThis file "DOMPersonas.java" should be located in "U8_xml_json\XML\ejercicios\ejemploDOM" directory, not in "C:\Users\Adria\Programacion_23_24\Ejercicios\src\main\java\org\velazquez\U8_json\Practica".(¾”øûÿÿÿÿ8ñší¬ø1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾”øûÿÿÿÿ8ñší¬ø1
+U
+java:S2755"3Disable access to external entities in XML parsing.(ƒ”±êùÿÿÿÿ8ßí¬ø1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘8ßí¬ø1
+G	java:S106"+Replace this use of System.out by a logger.(¶áÊº8ÿí¬ø1
+G	java:S106$"+Replace this use of System.out by a logger.(ÊµŠœ8ÿí¬ø1
+G	java:S106("+Replace this use of System.out by a logger.(ÆÀûı8ÿí¬ø1
+L	java:S1061"+Replace this use of System.out by a logger.(×Šÿ½ÿÿÿÿÿ8ÿí¬ø1
+G	java:S1062"+Replace this use of System.out by a logger.(Ùƒ²©8ÿí¬ø1
+L	java:S106;"+Replace this use of System.out by a logger.(¬ĞË‹ùÿÿÿÿ8ÿí¬ø1

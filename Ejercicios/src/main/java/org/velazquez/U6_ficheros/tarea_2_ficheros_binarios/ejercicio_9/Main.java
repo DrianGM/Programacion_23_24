@@ -6,7 +6,7 @@ import java.io.*;
 
 public class Main {
     public static void main(String[] args) {
-        String ruta = "C:\\Users\\Adria\\Programacion_23_24\\Ejercicios\\src\\main\\java\\org\\velazquez\\U6_ficheros\\tarea_2\\ejercicio_9\\archivo.bin";
+        String ruta = "C:\\Users\\Adria\\Programacion_23_24\\Ejercicios\\src\\main\\java\\org\\velazquez\\U6_ficheros\\tarea_2_ficheros_binarios\\ejercicio_9\\archivo.bin";
         Tren tren1 = new Tren("Tren A", 1);
         Tren tren2 = new Tren("Tren B", 2);
         Tren tren3 = new Tren("Tren C", 3);

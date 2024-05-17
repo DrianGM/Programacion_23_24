@@ -1,0 +1,14 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êëäÑ8é­ø1J$40a6fac1-10eb-4d03-8f84-9217588c6d5c
+{
+java:S2755"3Disable access to external entities in XML parsing.(ƒ”±êùÿÿÿÿ8İï ­ø1J$6ca81f2d-7b57-49fc-bb71-b21e2b63ee6f
+}
+java:S1118":Add a private constructor to hide the implicit public one.(Œó‘8ø­ø1J$ae4fe46d-84da-478e-8ca6-69e91adc6bf2
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(úöÔÄ8“Î©­ø1
+m	java:S106"+Replace this use of System.out by a logger.(¶áÊº8ø­ø1J$b2532d95-61d1-42bd-bdda-e3be1972ab9c
+m	java:S106#"+Replace this use of System.out by a logger.(ÊµŠœ8ÛÊ­ø1J$f9527761-c6ff-4229-a0df-0b0709d30bbb
+G	java:S106'"+Replace this use of System.out by a logger.(ÆÀûı8“Î©­ø1
+L	java:S1060"+Replace this use of System.out by a logger.(×Šÿ½ÿÿÿÿÿ8“Î©­ø1
+G	java:S1061"+Replace this use of System.out by a logger.(Ùƒ²©8“Î©­ø1
+L	java:S1069"+Replace this use of System.out by a logger.(¬ĞË‹ùÿÿÿÿ8“Î©­ø1
