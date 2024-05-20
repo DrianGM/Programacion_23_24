@@ -1,0 +1,27 @@
+<libros>
+    <libro precio="50">
+        <capitulo>Cap 1</capitulo>
+        <capitulo>Cap 2</capitulo>
+        <capitulo>Cap 3</capitulo>
+    </libro>
+    <libro precio="40">
+        <capitulo>Cap 1</capitulo>
+        <capitulo>Cap 2</capitulo>
+        <capitulo>Cap 3</capitulo>
+    </libro>
+    <libro precio="30">
+        <capitulo>Cap 1</capitulo>
+        <capitulo>Cap 2</capitulo>
+        <capitulo>Cap 3</capitulo>
+    </libro>
+    <libro precio="20">
+        <capitulo>Cap 1</capitulo>
+        <capitulo>Cap 2</capitulo>
+        <capitulo>Cap 3</capitulo>
+    </libro>
+    <libro precio="10">
+        <capitulo>Cap 1</capitulo>
+        <capitulo>Cap 2</capitulo>
+        <capitulo>Cap 3</capitulo>
+    </libro>
+</libros>

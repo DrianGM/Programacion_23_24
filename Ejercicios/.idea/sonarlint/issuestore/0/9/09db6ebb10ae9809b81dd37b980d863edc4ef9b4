@@ -1,0 +1,23 @@
+
+k
+java:S1192&"UDefine a constant instead of duplicating this literal "Peticion no valida: " 3 times.(ÁÂˆž
+r
+java:S1192)"WDefine a constant instead of duplicating this literal "Error en la peticion: " 3 times.(†ï˜Åüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(™¸Ë¯
+@	java:S106"+Replace this use of System.out by a logger.(ÿçÞ¸
+E	java:S106$"+Replace this use of System.out by a logger.(‡œÏ”úÿÿÿÿ
+@	java:S106&"+Replace this use of System.out by a logger.(ÁÂˆž
+E	java:S106)"+Replace this use of System.out by a logger.(†ï˜Åüÿÿÿÿ
+E	java:S106,"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+@	java:S106/"+Replace this use of System.out by a logger.(†•÷þ
+E	java:S1064"+Replace this use of System.out by a logger.(Þ‡¡ãùÿÿÿÿ
+@	java:S1066"+Replace this use of System.out by a logger.(ÁÂˆž
+E	java:S1069"+Replace this use of System.out by a logger.(†ï˜Åüÿÿÿÿ
+E	java:S106<"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+@	java:S106="+Replace this use of System.out by a logger.(ÆÀûý
+E	java:S106D"+Replace this use of System.out by a logger.(«šµ¿ÿÿÿÿÿ
+@	java:S106I"+Replace this use of System.out by a logger.(ÁÂˆž
+E	java:S106L"+Replace this use of System.out by a logger.(†ï˜Åüÿÿÿÿ
+E	java:S106R"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+E	java:S106S"+Replace this use of System.out by a logger.(Õœˆüÿÿÿÿ
+E	java:S106T"+Replace this use of System.out by a logger.(Þ‡¡ãùÿÿÿÿ

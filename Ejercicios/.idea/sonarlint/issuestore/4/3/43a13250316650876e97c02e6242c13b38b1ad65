@@ -1,0 +1,13 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûÂëÿJ$6d1a426f-edb3-4395-9d7c-c412c1856b34
+U
+java:S2755	"3Disable access to external entities in XML parsing.(ÂÿÕ‹ÿÿÿÿÿ8òàÞ¨ù1
+W
+java:S1161":Add the "@Override" annotation above this method signature(ûÀØ¯8‚áÞ¨ù1
+L	java:S106"+Replace this use of System.out by a logger.(Óöö®ÿÿÿÿÿ8‚áÞ¨ù1
+G	java:S106"+Replace this use of System.out by a logger.(ˆ€ªŠ8‚áÞ¨ù1
+W
+java:S1161":Add the "@Override" annotation above this method signature(Šú÷å8‚áÞ¨ù1
+G
+java:S1197"*Move the array designators [] to the type.(Šú÷å8‚áÞ¨ù1
+L	java:S106"+Replace this use of System.out by a logger.(®‡·úÿÿÿÿ8‚áÞ¨ù1

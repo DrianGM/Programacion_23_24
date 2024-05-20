@@ -1,0 +1,19 @@
+
+t
+java:S1192"YDefine a constant instead of duplicating this literal "------------------------" 3 times.(éç¬ùÿÿÿÿ
+h
+java:S1192"MDefine a constant instead of duplicating this literal "FC Barcelona" 7 times.(­Õ¦§üÿÿÿÿ
+g
+java:S1192"LDefine a constant instead of duplicating this literal "Real Madrid" 3 times.(ÏÃºœùÿÿÿÿ
+f
+java:S1192"KDefine a constant instead of duplicating this literal "Mediocampo" 3 times.(Ñåç”ûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(½£œÛşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(éç¬ùÿÿÿÿ
+E	java:S106 "+Replace this use of System.out by a logger.(âóÙéùÿÿÿÿ
+@	java:S106!"+Replace this use of System.out by a logger.(øŒ¼Æ
+E	java:S106""+Replace this use of System.out by a logger.(éç¬ùÿÿÿÿ
+@	java:S106*"+Replace this use of System.out by a logger.(İüùî
+E	java:S106+"+Replace this use of System.out by a logger.(Šá’Áøÿÿÿÿ
+E	java:S106,"+Replace this use of System.out by a logger.(éç¬ùÿÿÿÿ
+E	java:S1065"+Replace this use of System.out by a logger.(Ô¶Øúÿÿÿÿ
+E	java:S1066"+Replace this use of System.out by a logger.(ÿ­îÿÿÿÿÿ

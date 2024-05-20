@@ -1,0 +1,9 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûÂëÿJ$4bad58f1-89b5-4dcd-840f-9538e8e218b9
+P
+java:S2755"3Disable access to external entities in XML parsing.(ð¨ºî8à›ß¨ù1
+L	java:S106"+Replace this use of System.out by a logger.(ŒÊ¸Âøÿÿÿÿ8è›ß¨ù1
+L	java:S106"+Replace this use of System.out by a logger.(Ì­šÒùÿÿÿÿ8è›ß¨ù1
+G	java:S106"+Replace this use of System.out by a logger.(¸•ø¢8ð›ß¨ù1
+L	java:S106!"+Replace this use of System.out by a logger.(ØÞ¨îÿÿÿÿÿ8ð›ß¨ù1
+L	java:S106$"+Replace this use of System.out by a logger.(é‡Ò¼þÿÿÿÿ8ð›ß¨ù1
