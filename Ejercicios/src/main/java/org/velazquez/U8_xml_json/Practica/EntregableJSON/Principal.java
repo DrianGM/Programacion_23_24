@@ -21,7 +21,7 @@ public class Principal {
 
         Retrofit retrofit =
                 new Retrofit.Builder()
-                        .baseUrl("https://my-json-server.typicode.com/chemaduran/json_entrega1/")
+                        .baseUrl("https://my-json-server.typicode.com/chemaduran/json_entrega1")
                         .addConverterFactory(GsonConverterFactory.create())
                         .client(okHttpClient)
                         .build();
@@ -80,7 +80,7 @@ public class Principal {
         okHttpClient.connectionPool().evictAll();
 
         System.out.println();
-        System.out.println("Imprimimos el objeto venta: ");
+        System.out.println("Imprimimos el objeto alummno: ");
         System.out.println(alumno);
     }
 }

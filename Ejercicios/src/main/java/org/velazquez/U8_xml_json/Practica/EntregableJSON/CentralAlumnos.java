@@ -15,6 +15,6 @@ public interface CentralAlumnos {
     Call<Alumnos> getAlumnoID(@Path("alumnos_id") Integer alumno_id);
 
     // https://my-json-server.typicode.com/chemaduran/json_api_demo/ventas/2/detalles
-    @GET("json_api_demo/alumnos/{asignaturas}")
-    Call<List<Asignaturas>> listaAsignaturas(@Path("alumno_id") Integer alumno_id);
+    @GET("json_api_demo/asignaturas")
+    Call<List<Asignaturas>> listaAsignaturas(@Path("asignaturas_id") Integer id_asignatura);
 }

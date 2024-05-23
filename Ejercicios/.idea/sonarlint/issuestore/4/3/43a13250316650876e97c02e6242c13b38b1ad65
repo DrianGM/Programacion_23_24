@@ -1,13 +1,9 @@
 
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûÂëÿJ$6d1a426f-edb3-4395-9d7c-c412c1856b34
-U
-java:S2755	"3Disable access to external entities in XML parsing.(ÂÿÕ‹ÿÿÿÿÿ8òàŞ¨ù1
-W
-java:S1161":Add the "@Override" annotation above this method signature(ûÀØ¯8‚áŞ¨ù1
-L	java:S106"+Replace this use of System.out by a logger.(Óöö®ÿÿÿÿÿ8‚áŞ¨ù1
-G	java:S106"+Replace this use of System.out by a logger.(ˆ€ªŠ8‚áŞ¨ù1
-W
-java:S1161":Add the "@Override" annotation above this method signature(Šú÷å8‚áŞ¨ù1
-G
-java:S1197"*Move the array designators [] to the type.(Šú÷å8‚áŞ¨ù1
-L	java:S106"+Replace this use of System.out by a logger.(®‡·úÿÿÿÿ8‚áŞ¨ù1
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûÂëÿ8ÍÈ‡»ú1J$29d6bb35-a15d-42a9-ad06-b506fac89250
+{
+java:S2755"3Disable access to external entities in XML parsing.(Ë“Ößúÿÿÿÿ8ÃÛ¢»ú1J$001b8bc3-f62b-4605-a659-1e3173106779
+r	java:S106"+Replace this use of System.out by a logger.(½­¿Àÿÿÿÿÿ8Éâ†»ú1J$7a488672-35b3-4497-be63-062d146eb980
+r	java:S106-"+Replace this use of System.out by a logger.(¡§“œúÿÿÿÿ8Éâ†»ú1J$31f55f2d-27b8-483f-b366-56389a9ac541
+ƒ	java:S1253"<This block of commented-out lines of code should be removed.(áŸ‰›ıÿÿÿÿ8ÏûŸ»ú1J$707d6c25-3144-4cb3-b8e5-4d2240812fb1
+„
+java:S10755"ARefactor your code to get this URI from a customizable parameter.(ÿ®ç8Ë–£»ú1J$7fb7fe8b-b730-4de7-aa0f-96d0fc4d5827

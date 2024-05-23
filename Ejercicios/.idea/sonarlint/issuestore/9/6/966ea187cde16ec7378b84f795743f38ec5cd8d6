@@ -1,9 +1,15 @@
 
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûÂëÿJ$eca067a9-19b6-4040-b378-b9c79ed28ec5
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûÂëÿ8×ïÆ»ú1J$addbdac4-e69f-428b-ae3a-210974d7e6a1
 v
-java:S2755"3Disable access to external entities in XML parsing.(ğ¨ºî8à›ß¨ù1J$c84f73b5-ecd6-4e44-beeb-18bac38bd0d3
-r	java:S106"+Replace this use of System.out by a logger.(ŒÊ¸Âøÿÿÿÿ8è›ß¨ù1J$9256b66c-5022-46a9-adbe-11bd5948cf75
-r	java:S106"+Replace this use of System.out by a logger.(Ì­šÒùÿÿÿÿ8è›ß¨ù1J$b804729b-d03e-4df5-8a6d-386079d1f996
-m	java:S106"+Replace this use of System.out by a logger.(¸•ø¢8ğ›ß¨ù1J$03086081-dc30-48f3-bce8-57b79215bf1a
-r	java:S106!"+Replace this use of System.out by a logger.(ØŞ¨îÿÿÿÿÿ8ğ›ß¨ù1J$3d54af13-9a35-425e-a110-0ab9f5155e68
-r	java:S106$"+Replace this use of System.out by a logger.(é‡Ò¼şÿÿÿÿ8ğ›ß¨ù1J$2aca246d-377b-4efc-86a2-7ee8a9a30277
+java:S2755"3Disable access to external entities in XML parsing.(²µŸš8òïÆ»ú1J$3a500810-af56-47f1-a724-5161ca2e5ece
+‰
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(’¤ÊÉøÿÿÿÿ8¬¼È»ú1J$85f667c9-b6b0-4c17-8fba-e392e35152f6
+r	java:S106"+Replace this use of System.out by a logger.(ŒÊ¸Âøÿÿÿÿ8÷ïÆ»ú1J$4391c492-8385-4465-8ba9-e21efac1dcb8
+r	java:S106!"+Replace this use of System.out by a logger.(ãÁ½¶ùÿÿÿÿ8÷ïÆ»ú1J$fdbea32d-fbba-4c79-9415-b99c248befb1
+r	java:S106#"+Replace this use of System.out by a logger.(ã”Ä‰øÿÿÿÿ8÷ïÆ»ú1J$bb57587e-e5b6-42ed-8e83-7e119c510d2c
+r	java:S106%"+Replace this use of System.out by a logger.(®ãÁ¤şÿÿÿÿ8÷ïÆ»ú1J$3186feaf-32c1-4b47-a2a0-2971dc2495a2
+r	java:S106-"+Replace this use of System.out by a logger.(§éëÇøÿÿÿÿ8÷ïÆ»ú1J$bdb754b5-90a8-46fc-b243-e8ba35c133f6
+m	java:S1061"+Replace this use of System.out by a logger.(¾•ã³8÷ïÆ»ú1J$1c76fbfa-c300-4135-bef7-a3e2509487e2
+r	java:S106:"+Replace this use of System.out by a logger.(°õ½ùÿÿÿÿ8÷ïÆ»ú1J$0dd174b7-f877-4981-98da-b83179b7a512
+m	java:S106<"+Replace this use of System.out by a logger.(ôº¬Ï8÷ïÆ»ú1J$deae7088-df3c-4695-809d-0a2e8e76dfb8
+m	java:S106?"+Replace this use of System.out by a logger.(¸ôæµ8üïÆ»ú1J$7e9811be-b117-4591-b4e4-bf21f5a55806
