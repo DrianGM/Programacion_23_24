@@ -1,7 +1,21 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìÈêÏşÿÿÿÿ8«¯É®ø1J$23475a2a-d3b2-44ec-aeab-3aef0872ca4e
-~	java:S125"<This block of commented-out lines of code should be removed.(°×¼š8©ÓÉ®ø1J$583121ae-99a0-4cb5-980f-8cb434eadb5d
-m	java:S106#"+Replace this use of System.out by a logger.(¤°û‰8×±É®ø1J$1ddf72e2-0f91-4ef9-8407-9a8f7bdcf417
-~	java:S125P"<This block of commented-out lines of code should be removed.(Ø¨¸£8×±É®ø1J$4a6b7cb5-2980-4c09-a8fb-2655d657747d
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ìÈêÏşÿÿÿÿ8«¯É®ø1J$092f5983-c852-48b6-8786-f9a9336d3526
+—
+java:S20958"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÑÒ»¥øÿÿÿÿ8µ×†Ïù1J$aa5b5d27-2048-463d-aa5d-aa5dd0167e90
+–
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(»ûÅ×ÿÿÿÿÿ8µ×†Ïù1J$1c1d8c58-6434-4d8d-bdd7-fce08d0f35ad
+—
+java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÑÒ»¥øÿÿÿÿ8²×†Ïù1J$881c9b60-0192-4f99-9a11-2e8b4393221d
+•
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¸æ•´ıÿÿÿÿ8±×†Ïù1J$2d75f2a5-583f-4216-af93-2204d3c4fa42
+•
+java:S20957"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¸æ•´ıÿÿÿÿ8¶×†Ïù1J$33d54788-0d00-4a21-94e1-d3ee9f49488c
+˜
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¥€ë˜øÿÿÿÿ8µ×†Ïù1J$d6419d13-7ab7-412e-84de-7cbea205f044
+v
+java:S2755h"3Disable access to external entities in XML parsing.(İ‰Ë–8Ó×†Ïù1J$8eb07de4-583f-48ff-9bc2-50ae2ae9bbf7
+~	java:S125"<This block of commented-out lines of code should be removed.(°×¼š8©ÓÉ®ø1J$a6c2e079-50f8-4994-a391-df6dcd25f543
+m	java:S106#"+Replace this use of System.out by a logger.(¤°û‰8×±É®ø1J$80eca182-afdb-46a5-af30-13cfa9ab048a
+~	java:S125P"<This block of commented-out lines of code should be removed.(Ø¨¸£8×±É®ø1J$6bae0114-dd1f-42af-a40f-f77f289e78f7
 ƒ
-java:S1075k"ARefactor your code to get this URI from a customizable parameter.(ñÙ˜m8×±É®ø1J$17416b16-29c0-4f9d-b599-0b5dd84bd5e4
+java:S1075k"ARefactor your code to get this URI from a customizable parameter.(ñÙ˜m8×±É®ø1J$77bdced1-cfc1-407a-97fc-f1187d5efde2

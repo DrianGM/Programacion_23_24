@@ -1,14 +1,0 @@
-
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ü™Ÿàıÿÿÿÿ8ñší¬ø1J$577f03a2-d8aa-4b92-858f-5fb9e9975fca
-{
-java:S2755"3Disable access to external entities in XML parsing.(ƒ”±êùÿÿÿÿ8ßí¬ø1J$9162bd03-4ae7-4aa3-a2e4-1eec0727a55a
-•
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘8ßí¬ø1J$7b076282-a197-4b54-a6b2-7177a0854cfe
-‰
-java:S1075"ARefactor your code to get this URI from a customizable parameter.(ÀÙ»Õüÿÿÿÿ8çó¬ø1J$6da38d23-1ce7-42ee-917f-4f6ed0e6ca59
-m	java:S106"+Replace this use of System.out by a logger.(¶áÊº8ÿí¬ø1J$726414a5-5309-48df-b613-4f7b6faac644
-m	java:S106$"+Replace this use of System.out by a logger.(ÊµŠœ8ÿí¬ø1J$dc14f824-b61b-4f32-b4d2-a88683309cb7
-m	java:S106("+Replace this use of System.out by a logger.(ÆÀûı8ÿí¬ø1J$06e1c86a-911c-468f-bf01-42aa8333e776
-r	java:S1061"+Replace this use of System.out by a logger.(×Šÿ½ÿÿÿÿÿ8ÿí¬ø1J$2e156af0-8b74-4d45-b85e-fb2bf9bba30a
-m	java:S1062"+Replace this use of System.out by a logger.(Ùƒ²©8ÿí¬ø1J$a994244a-6f01-4a0e-b74b-a34e6830906c
-r	java:S106;"+Replace this use of System.out by a logger.(¬ĞË‹ùÿÿÿÿ8ÿí¬ø1J$5e5a3295-de03-401a-b3b0-d226cc59f118

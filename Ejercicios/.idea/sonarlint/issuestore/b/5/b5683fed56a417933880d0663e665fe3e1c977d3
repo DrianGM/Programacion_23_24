@@ -1,0 +1,5 @@
+
+³
+java:S1319="pThe type of "listaAsignaturas" should be an interface such as "List" rather than the implementation "ArrayList".(”Á…õ8ìãë·ú1J$713d1fb9-c12e-47fc-8bd0-a5a0fb6aa42b
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ò³çƒ8‘Äë·ú1J$49434808-a8e5-476d-88fd-f9ea994f9ac9
+¢	java:S116"[Rename this field "ListaAsignaturas" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¼ˆÇþÿÿÿÿ8‘Äë·ú1J$21268b2b-5860-4fed-b080-1f98d8dfad85

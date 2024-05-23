@@ -1,0 +1,10 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í‚áşÿÿÿÿJ$9fe17aec-8a6a-46a3-afe7-204faa0b19ae
+v
+java:S2755"3Disable access to external entities in XML parsing.(´‹ëù8úÃºú1J$c727ba5e-8adc-4312-aac7-7b8db26d98ee
+m	java:S106"+Replace this use of System.out by a logger.(¥³Éõ8üÃºú1J$de8f02d7-b6c7-4443-b9b6-9249ad3916f4
+d	java:S131""Add a default case to this switch.(µàÑ‹8üÃºú1J$5ebf8d27-a710-4c19-9d70-e86ae450d397
+
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(µàÑ‹8üÃºú1J$5c69b128-d427-49df-aafc-f77175dbeba0
+m	java:S106-"+Replace this use of System.out by a logger.(´œöã8üÃºú1J$bfcae25d-6c32-4f06-9226-74d82dae2d0c
+r	java:S106."+Replace this use of System.out by a logger.(Éèïáüÿÿÿÿ8üÃºú1J$56de8a0c-5346-4067-a9b9-2a3551be6a8d

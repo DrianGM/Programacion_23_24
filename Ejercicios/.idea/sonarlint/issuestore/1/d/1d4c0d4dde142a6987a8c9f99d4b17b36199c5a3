@@ -1,0 +1,9 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(žÍ‚áþÿÿÿÿ8ü›Ñ¸ú1J$7d590652-3da1-4dea-abc4-2381168cdd03
+{
+java:S2755"3Disable access to external entities in XML parsing.(ƒ”±êùÿÿÿÿ8Ù¢Ú¸ú1J$76a0ec26-123e-4a2d-8e10-dfc7e35f4e2a
+‰
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ú‡½Êþÿÿÿÿ8ŒœÑ¸ú1J$69d2bd47-0126-48a3-ae30-a78ea0d0d310
+ƒ	java:S125 "<This block of commented-out lines of code should be removed.(ñ£‹§üÿÿÿÿ8œœÑ¸ú1J$c030cde2-6bee-42fa-9000-16e8211ebee3
+m	java:S106'"+Replace this use of System.out by a logger.(äìÎÆ8œœÑ¸ú1J$a1db2878-4d49-4707-b5fa-4d07fd3fe79c
+m	java:S106+"+Replace this use of System.out by a logger.(ÈÖ8œœÑ¸ú1J$7aeef043-054b-44e9-8fef-407fe5c617e1

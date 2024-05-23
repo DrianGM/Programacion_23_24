@@ -1,9 +1,9 @@
 
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûÂëÿJ$4bad58f1-89b5-4dcd-840f-9538e8e218b9
-P
-java:S2755"3Disable access to external entities in XML parsing.(ð¨ºî8à›ß¨ù1
-L	java:S106"+Replace this use of System.out by a logger.(ŒÊ¸Âøÿÿÿÿ8è›ß¨ù1
-L	java:S106"+Replace this use of System.out by a logger.(Ì­šÒùÿÿÿÿ8è›ß¨ù1
-G	java:S106"+Replace this use of System.out by a logger.(¸•ø¢8ð›ß¨ù1
-L	java:S106!"+Replace this use of System.out by a logger.(ØÞ¨îÿÿÿÿÿ8ð›ß¨ù1
-L	java:S106$"+Replace this use of System.out by a logger.(é‡Ò¼þÿÿÿÿ8ð›ß¨ù1
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûÂëÿJ$eca067a9-19b6-4040-b378-b9c79ed28ec5
+v
+java:S2755"3Disable access to external entities in XML parsing.(ð¨ºî8à›ß¨ù1J$c84f73b5-ecd6-4e44-beeb-18bac38bd0d3
+r	java:S106"+Replace this use of System.out by a logger.(ŒÊ¸Âøÿÿÿÿ8è›ß¨ù1J$9256b66c-5022-46a9-adbe-11bd5948cf75
+r	java:S106"+Replace this use of System.out by a logger.(Ì­šÒùÿÿÿÿ8è›ß¨ù1J$b804729b-d03e-4df5-8a6d-386079d1f996
+m	java:S106"+Replace this use of System.out by a logger.(¸•ø¢8ð›ß¨ù1J$03086081-dc30-48f3-bce8-57b79215bf1a
+r	java:S106!"+Replace this use of System.out by a logger.(ØÞ¨îÿÿÿÿÿ8ð›ß¨ù1J$3d54af13-9a35-425e-a110-0ab9f5155e68
+r	java:S106$"+Replace this use of System.out by a logger.(é‡Ò¼þÿÿÿÿ8ð›ß¨ù1J$2aca246d-377b-4efc-86a2-7ee8a9a30277
