@@ -5,14 +5,14 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class ConexionBD {
-    private Connection con=null;
+    private static Connection con=null;
 
-    public Connection getConnection(){
+    public static Connection getConnection(){
         try{
             if( con == null ){
                 con = DriverManager.getConnection(
                         "jdbc:mysql://localhost:3336/classicmodels?user=root&password=XXXXX");
-                System.out.println("Connection succesful");
+                System.out.println("Conexion abierta.");
             }
         }
         catch(SQLException ex){
@@ -21,10 +21,12 @@ public class ConexionBD {
         return con;
     }
 
-    public void close() {
+    public static void close() {
         try {
             if (con != null && !con.isClosed()) {
                 con.close();
+                con = null;
+                System.out.println("Conexion cerrada.");
             }
         } catch (SQLException e) {
             e.printStackTrace();

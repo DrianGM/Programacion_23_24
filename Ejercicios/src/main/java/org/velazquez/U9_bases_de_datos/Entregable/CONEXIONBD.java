@@ -7,9 +7,6 @@ import java.sql.SQLException;
 public class CONEXIONBD {
     private static Connection con = null;
 
-    public CONEXIONBD() {
-    }
-
     public static Connection getConnection() {
 
         if (con == null) {
@@ -29,7 +26,7 @@ public class CONEXIONBD {
 
     public static void close() {
         try {
-            if (con != null) {
+            if (con != null && !con.isClosed()) {
                 con.close();
                 con = null;
                 System.out.println("Conexion cerrada.");

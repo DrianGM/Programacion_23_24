@@ -1,4 +1,6 @@
 
-•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ãû‹‘J$314abfaf-f6ca-43d2-99d4-778f214a896c
-r	java:S106"+Replace this use of System.out by a logger.(•·ûõûÿÿÿÿ8è÷‡‹ö1J$28a148c8-4bdf-49d6-8bcf-d004c87849da
-r	java:S106"+Replace this use of System.out by a logger.(¥ï¬¬ýÿÿÿÿ8ŠØª‹ö1J$73f2953c-458b-4c5f-8020-0aaa5243295e
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ãû‹‘J$b1b0813d-1eaa-4a64-8a61-204f84048cb5
+‹
+java:S1130"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(Á¯¦þ8€Ëåïû1
+r	java:S106"+Replace this use of System.out by a logger.(•·ûõûÿÿÿÿ8è÷‡‹ö1J$6abd7afd-dfa9-44fa-8e8e-794ebe12d624
+r	java:S106"+Replace this use of System.out by a logger.(¥ï¬¬ýÿÿÿÿ8ŠØª‹ö1J$88951bf7-e424-4101-a7ad-839a804652a1

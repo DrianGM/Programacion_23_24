@@ -9,17 +9,16 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ADClassicModels {
-    private Connection con;
 
     public ADClassicModels(){
-        ConexionBD connec = new ConexionBD();
-        con=connec.getConnection();
+
     }
 
     public List getEmpleados(){
         List<Employee> empleados = new ArrayList<>();
 
         try {
+            Connection con = ConexionBD.getConnection();
             Statement stmt;
             ResultSet rs;
             stmt = con.createStatement();
@@ -48,6 +47,7 @@ public class ADClassicModels {
         List<Office> offices = new ArrayList<>();
 
         try {
+            Connection con = ConexionBD.getConnection();
             Statement stmt;
             ResultSet rs;
             stmt = con.createStatement();
@@ -71,13 +71,5 @@ public class ADClassicModels {
         }
 
         return offices;
-    }
-
-    public Connection getCon() {
-        return con;
-    }
-
-    public void setCon(Connection con) {
-        this.con = con;
     }
 }

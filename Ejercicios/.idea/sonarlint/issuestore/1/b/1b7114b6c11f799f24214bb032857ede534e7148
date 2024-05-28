@@ -1,25 +1,25 @@
 
 ‹
-java:S1192"HDefine a constant instead of duplicating this literal "name = " 4 times.(Æƒ™¸8ûºÍæô1J$fb1d5139-29e3-4cba-a1bd-5dc488e9ad3d
+java:S1192"HDefine a constant instead of duplicating this literal "name = " 4 times.(Æƒ™¸8ûºÍæô1J$866c4f14-e492-4438-8cea-e1eea585794e
 
-java:S1192"FDefine a constant instead of duplicating this literal "id = " 3 times.(×İ‰”şÿÿÿÿ8»Íæô1J$ba7ea5b1-8766-426d-b02b-27beb460d176
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­Ÿ¼8¡ Íæô1J$128a8aa1-2421-4d38-b6fd-881546e3f410
+java:S1192"FDefine a constant instead of duplicating this literal "id = " 3 times.(×İ‰”şÿÿÿÿ8»Íæô1J$0168ae83-7851-4f99-aea2-1adc27fad24b
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(­Ÿ¼8¡ Íæô1J$09ce2899-f8e9-4fe7-9318-cf66cff4837e
 
-java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8¡Íæô1J$b415c35c-5325-4c9f-a973-ed6037116bf6
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(é°Áµşÿÿÿÿ8¡Íæô1J$33c9bc96-8f7c-4075-a85b-6ec21446d635
 b
-java:S6905"Don't use the query "SELECT *".(Ö½»Ä8¡«ç‰ö1J$1d168014-b206-4d93-9f35-bf0c20be3537
-m	java:S106"+Replace this use of System.out by a logger.(Æƒ™¸8§¡Íæô1J$bc9a2f1e-243b-4df0-a317-8f95e2560019
-r	java:S106"+Replace this use of System.out by a logger.(×İ‰”şÿÿÿÿ8§¡Íæô1J$028738be-301c-4580-a67a-eeb8014d5b24
-r	java:S106"+Replace this use of System.out by a logger.(ÀÏ°ıÿÿÿÿ8§¡Íæô1J$0ff020d1-fc7a-43c6-a4ca-0165d55a028f
+java:S6905"Don't use the query "SELECT *".(Ö½»Ä8¡«ç‰ö1J$75337a7b-e6ee-45b5-b97b-57d4937b1e39
+m	java:S106"+Replace this use of System.out by a logger.(Æƒ™¸8§¡Íæô1J$a8fdf295-23ee-4060-833f-75b6708af7e7
+r	java:S106"+Replace this use of System.out by a logger.(×İ‰”şÿÿÿÿ8§¡Íæô1J$1f915044-8bb5-4f7a-b9b1-9fcb21c15c11
+r	java:S106"+Replace this use of System.out by a logger.(ÀÏ°ıÿÿÿÿ8§¡Íæô1J$c83e0806-9ea2-47b3-843a-0eff91655a2c
 a
-java:S6905"Don't use the query "SELECT *".(øÜˆ8¡«ç‰ö1J$36502e89-fe40-4e7c-aa91-fa96ea886180
-m	java:S106"+Replace this use of System.out by a logger.(ŸëŠ8§¡Íæô1J$3205d222-2059-41b7-b966-c82bce8df324
-r	java:S106"+Replace this use of System.out by a logger.(×Ÿëêøÿÿÿÿ8§¡Íæô1J$a848f3c1-2ab0-48c3-940d-a0bd0b3824d8
-r	java:S106"+Replace this use of System.out by a logger.(ÀÏ°ıÿÿÿÿ8®½Íæô1J$f7554ec0-b21a-44b4-be04-5d9d279a0286
+java:S6905"Don't use the query "SELECT *".(øÜˆ8¡«ç‰ö1J$9d8d9f0b-a9d1-4b63-90af-c80a7717cec4
+m	java:S106"+Replace this use of System.out by a logger.(ŸëŠ8§¡Íæô1J$00600ec7-7c7f-4a34-92e7-d30d69c622b0
+r	java:S106"+Replace this use of System.out by a logger.(×Ÿëêøÿÿÿÿ8§¡Íæô1J$e2857260-722e-4959-94d3-ad67eaebd31d
+r	java:S106"+Replace this use of System.out by a logger.(ÀÏ°ıÿÿÿÿ8®½Íæô1J$efe7c163-3b8b-4c50-8e19-5642e10978b0
 a
-java:S6905 "Don't use the query "SELECT *".(Ø…ÿ%8¡«ç‰ö1J$fd7b0885-f1f9-4f4c-b24e-bd80c16ff06a
-m	java:S106""+Replace this use of System.out by a logger.(‘œ–—8®½Íæô1J$7d636056-5914-4783-899f-f24307545feb
-m	java:S106#"+Replace this use of System.out by a logger.(é†¬Û8Œ±Ïæô1J$f5b7c3a2-058b-46f4-860c-e541de8e0a77
-m	java:S106$"+Replace this use of System.out by a logger.(³Ù¸•8äàÑæô1J$2dd3f026-7597-4fa2-b63a-a6493871ffcd
-r	java:S106'"+Replace this use of System.err by a logger.(ÓŞ¿¤øÿÿÿÿ8§¡Íæô1J$3a9aa2fb-1103-4893-9905-e53c6d29bd7c
-m	java:S106,"+Replace this use of System.err by a logger.(·Ì”8®¡Íæô1J$f452f737-16a7-4489-a787-d0f3959e959d
+java:S6905 "Don't use the query "SELECT *".(Ø…ÿ%8¡«ç‰ö1J$213e7076-b234-4776-89a8-fdfa397ae75f
+m	java:S106""+Replace this use of System.out by a logger.(‘œ–—8®½Íæô1J$af9964b7-6bec-4997-9dc9-6e70fd6df2b4
+m	java:S106#"+Replace this use of System.out by a logger.(é†¬Û8Œ±Ïæô1J$00f382fd-a119-479f-831a-39dcc315b94a
+m	java:S106$"+Replace this use of System.out by a logger.(³Ù¸•8äàÑæô1J$e731a74e-a149-4915-b2c9-67979024b5ad
+r	java:S106'"+Replace this use of System.err by a logger.(ÓŞ¿¤øÿÿÿÿ8§¡Íæô1J$c9ec37a4-a496-4043-8241-e5467359936c
+m	java:S106,"+Replace this use of System.err by a logger.(·Ì”8®¡Íæô1J$d77e9b99-e379-4040-9a30-4723eef807a7

@@ -5,14 +5,14 @@ k	java:S117 "QRename this local variable to match the regular expression '^[a-
 k	java:S117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô‚ÿîûÿÿÿÿ
 k	java:S117{"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô‚ÿîûÿÿÿÿ
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ùæèÞ
+j
+java:S2095w"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(–õ‚ˆúÿÿÿÿ
 e
 java:S2095n"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(•¡Æ€
 j
-java:S2095E"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Âž²âùÿÿÿÿ
-j
 java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Âž²âùÿÿÿÿ
 j
-java:S2095w"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(–õ‚ˆúÿÿÿÿ
+java:S2095E"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Âž²âùÿÿÿÿ
 N
 java:S2589‹"7Remove this expression which always evaluates to "true"(þ³ñã
 @	java:S106"+Replace this use of System.out by a logger.(ðáîÜ

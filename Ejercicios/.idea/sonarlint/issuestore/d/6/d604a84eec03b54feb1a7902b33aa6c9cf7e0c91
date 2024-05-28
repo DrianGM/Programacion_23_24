@@ -1,14 +1,16 @@
 
 r
-java:S3740"/Provide the parametrized type for this generic.(öð«¨8¹°Ý‹ö1J$edbf43ae-92b4-46d2-ba83-dd8266251f6a
+java:S3740"/Provide the parametrized type for this generic.(öð«¨8¹°Ý‹ö1J$699d8429-43a1-4f3e-a266-7de18fe91d1e
 r
-java:S3740/"/Provide the parametrized type for this generic.(¼é«Ø8¸ûé‹ö1J$1da7aeaf-837a-47d8-a50b-6750878e38e0
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ãû‹‘8¹°Ý‹ö1J$a1e22865-5478-44c2-a64a-9e7cab2381ad
+java:S3740."/Provide the parametrized type for this generic.(¼é«Ø8¸ûé‹ö1J$34d22edb-ccd1-46c0-9b06-ac0cb340a530
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ãû‹‘8¹°Ý‹ö1J$2bf8edb5-1aea-4e7e-8f89-8b241fbb56c1
 Š
-java:S20955"GUse try-with-resources or close this "Statement" in a "finally" clause.(œïì”8Øûé‹ö1J$3198e934-14e8-4e3c-a63a-a3bdb41efafc
+java:S20955"GUse try-with-resources or close this "Statement" in a "finally" clause.(œïì”8£ößïû1J$43d3cac9-1558-47dd-a2e7-0b0a13230ce6
 Š
-java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(œïì”8Øûé‹ö1J$fcd97c60-9b3e-4958-a367-5a4f3eb85408
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(œïì”8´‚ãïû1J$6b1f806e-3cca-4133-90b1-e31e6f1ab500
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¨»š¹þÿÿÿÿ8Á¯âïû1J$4beac524-92a3-4271-beb2-cc3c127f8b1a
 g
-java:S6905"Don't use the query "SELECT *".(õªÅ’ùÿÿÿÿ8Øûé‹ö1J$c3bfbeb1-a1b4-429a-9378-3f5ea71de3a1
+java:S6905"Don't use the query "SELECT *".(õªÅ’ùÿÿÿÿ8Øûé‹ö1J$4dfa525f-f30c-41fd-9ba1-768727e01668
 b
-java:S69057"Don't use the query "SELECT *".(‰Ù‚Þ8Øûé‹ö1J$6d6b0250-3d10-4e14-b91e-b9e5d47054dc
+java:S69057"Don't use the query "SELECT *".(‰Ù‚Þ8Øûé‹ö1J$695f6b83-7cab-4e23-8fad-7b4e4366369c

@@ -1,4 +1,7 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ãû‹‘8şŒòŒö1J$73fda5fd-85fa-439b-8bf9-4de4e978380b
-r	java:S106"+Replace this use of System.out by a logger.(€Î³Áûÿÿÿÿ8ïÕòŒö1J$52dcdebf-40d3-4e84-8b2c-3fbffbeabcc3
-“secrets:S6703"HMake sure this database password gets changed and removed from the code.(è‡Ÿüÿÿÿÿ8ÿÊñŒö1J$5dad510f-3a6a-462f-96f5-1d999e42b538
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ãû‹‘8şŒòŒö1J$01267bea-3f24-4c5b-bf29-2869c748d15d
+}
+java:S1118":Add a private constructor to hide the implicit public one.(›£­¼8Õæïû1J$48a014e4-fc11-4d12-9462-03a8a444df06
+r	java:S106"+Replace this use of System.out by a logger.(ÕÄâıÿÿÿÿ8ïÕòŒö1J$e084972f-5e86-4e0f-84d2-c5a87f5bc722
+m	java:S106"+Replace this use of System.out by a logger.(¥Ä–¯8»ìïû1J$beaf9ff2-752d-4036-8ffc-d08b87d22362
+“secrets:S6703"HMake sure this database password gets changed and removed from the code.(è‡Ÿüÿÿÿÿ8ÿÊñŒö1J$1c099403-f54a-43a2-8a18-927ebfc305e8

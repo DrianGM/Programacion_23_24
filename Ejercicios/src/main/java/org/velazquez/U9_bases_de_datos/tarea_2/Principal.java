@@ -17,6 +17,6 @@ public class Principal {
             System.out.println(office);
         }
 
-        ad.getCon().close();
+        ConexionBD.close();
     }
 }
