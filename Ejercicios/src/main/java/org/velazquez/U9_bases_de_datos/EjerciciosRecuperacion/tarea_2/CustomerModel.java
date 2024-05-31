@@ -1,6 +1,7 @@
-package org.velazquez.U9_bases_de_datos.EjerciciosRecuperacion.tarea_1.ejercicio_4;
+package org.velazquez.U9_bases_de_datos.EjerciciosRecuperacion.tarea_2;
 
 import org.velazquez.U9_bases_de_datos.EjerciciosRecuperacion.tarea_1.ejercicio_3.ConexionBD;
+import org.velazquez.U9_bases_de_datos.EjerciciosRecuperacion.tarea_1.ejercicio_4.Customer;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

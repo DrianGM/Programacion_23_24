@@ -8,8 +8,7 @@ import java.sql.SQLException;
 
 public class PaymentModel {
 
-    public static Integer insertarPagos(Payment pago){
-        Integer filasAfectadas = 0;
+    public static void insertarPagos(Payment pago){
         Connection con = ConexionBD.getConnection();
         try {
             String sql = "INSERT INTO payments VALUES (?,?,?,?)";
@@ -20,10 +19,9 @@ public class PaymentModel {
             statement.setString(3,pago.getPaymentDate());
             statement.setDouble(4,pago.getAmount());
 
-            filasAfectadas = statement.executeUpdate();
+            statement.executeUpdate();
         } catch (SQLException e) {
             e.printStackTrace();
         }
-        return filasAfectadas;
     }
 }

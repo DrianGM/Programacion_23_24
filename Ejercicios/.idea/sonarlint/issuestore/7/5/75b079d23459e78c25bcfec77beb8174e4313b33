@@ -1,0 +1,6 @@
+
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Òø‰ë8¦Á²ıü1J$d99e058e-d7ae-48ba-8d17-bd3ea832e852
+˜	java:S117^"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğì²£şÿÿÿÿ8Ú¤³ıü1J$387f6d03-1376-4d8f-b86f-fa01f96e38e2
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹õ«øÿÿÿÿ8Ñé±ıü1J$f6af9a33-650b-4151-af1f-cdb48fbfac44
+‘	java:S116"ORename this field "MSRP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í‘Òì8×é±ıü1J$6c64842a-5525-4ce7-a9fc-45d33a3259be
+ƒ	java:S107"AConstructor has 9 parameters, which is greater than 7 authorized.(Òø‰ë8¼Á²ıü1J$6b4e3b98-6c79-446f-bdc2-215fb0920402

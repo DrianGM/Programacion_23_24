@@ -1,0 +1,9 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö¼õßşÿÿÿÿ8¾şü1J$b5855369-11fa-4013-891a-f8ffcd0940b7
+‚
+java:S1118
+":Add a private constructor to hide the implicit public one.(ÏÄ³Åüÿÿÿÿ8¾şü1J$9b630368-bfb6-4805-8764-776b0964a938
+~
+java:S6909&"<Move this loop-invariant setter invocation out of this loop.(€Ÿ•78š¾şü1J$d4257f9a-7669-4c5f-8a80-68173165e26c
+™
+java:S6912)"VUse "addBatch" and "executeBatch" to execute multiple SQL statements in a single call.(¨å“Š8¤¾şü1J$33dcf88b-5032-49f3-a3c9-5e0082dd5387

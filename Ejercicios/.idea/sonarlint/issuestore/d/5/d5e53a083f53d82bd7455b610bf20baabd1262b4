@@ -1,11 +1,11 @@
 
 q
-java:S1121".Extract the assignment out of this expression.(¯‚ìÜ8ŒÌ²òû1J$e422a89f-4225-4cc3-94a7-088dcc944ec6
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»áì“þÿÿÿÿ8ŒÌ²òû1J$f9bed11d-7b5b-4bfb-84df-c47a9d23872e
-Y
-java:S25896"7Remove this expression which always evaluates to "true"(ëº®×ýÿÿÿÿ8ö›¾òû1
-m	java:S106 "+Replace this use of System.out by a logger.(¥òæä8œÌ²òû1J$f8df8a82-44eb-4ec1-acb6-670be94b83e9
-r	java:S1060"+Replace this use of System.out by a logger.(‡ýÉ‚ùÿÿÿÿ8œÌ²òû1J$b456e3ad-a4eb-44a1-9a52-cea6f78a1f0c
-l	java:S1064"+Replace this use of System.out by a logger.(Ä­ß8œÌ²òû1J$421bd18c-7d02-4584-b870-d7d4951dcc20
-r	java:S106;"+Replace this use of System.out by a logger.(€¾î üÿÿÿÿ8¬Ì²òû1J$74ed25b2-b2d4-4a45-bad6-42a2aace6cc2
-r	java:S106="+Replace this use of System.out by a logger.(¬ÐË‹ùÿÿÿÿ8¬Ì²òû1J$7dc94750-4e08-45ac-9697-970fb44bf3be
+java:S1121".Extract the assignment out of this expression.(¯‚ìÜ8ŒÌ²òû1J$39e6da98-8f90-4c81-82ac-6d6923995cf9
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(»áì“þÿÿÿÿ8ŒÌ²òû1J$9f6c5c24-6b9a-4690-b741-e3cbbc50f7ce
+
+java:S25896"7Remove this expression which always evaluates to "true"(ëº®×ýÿÿÿÿ8ö›¾òû1J$88c47bce-9e2d-4c0e-a5aa-fca65223b2a7
+m	java:S106 "+Replace this use of System.out by a logger.(¥òæä8œÌ²òû1J$fb7834ab-c6c3-4739-8f86-0f8b4549ce0c
+r	java:S1060"+Replace this use of System.out by a logger.(‡ýÉ‚ùÿÿÿÿ8œÌ²òû1J$e5681db1-43e0-4bd9-b99f-519dcbec1e1a
+l	java:S1064"+Replace this use of System.out by a logger.(Ä­ß8œÌ²òû1J$0a2ddce6-4583-4fc8-b01d-65a444c3a64f
+r	java:S106;"+Replace this use of System.out by a logger.(€¾î üÿÿÿÿ8¬Ì²òû1J$39474895-902c-49de-9b63-99e43f632409
+r	java:S106="+Replace this use of System.out by a logger.(¬ÐË‹ùÿÿÿÿ8¬Ì²òû1J$da825e5f-c886-4a60-9d8f-8bd5d68620bc
