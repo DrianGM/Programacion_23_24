@@ -311,8 +311,6 @@ Wsrc/main/java/org/velazquez/U9_bases_de_datos/EjerciciosRecuperacion/tarea_2/Or
 _src/main/java/org/velazquez/U9_bases_de_datos/EjerciciosRecuperacion/tarea_2/Transacciones.java,9\3\93edf87c885cabc97b18535bf30f0fa4d68afc66
 v
 Fsrc/main/java/org/velazquez/U9_bases_de_datos/Tablas/OrderDetails.java,f\e\fef5ead7a3b84f6a42e877d4b1bcd300ef89fc9a
-u
-Esrc/main/java/org/velazquez/U9_bases_de_datos/Tablas/OrderDetail.java,0\5\05954e6b805e1b171854e00107c0e7f79042a26b
 q
 Asrc/main/java/org/velazquez/U9_bases_de_datos/Tablas/Product.java,7\5\75b079d23459e78c25bcfec77beb8174e4313b33
 u
@@ -331,3 +329,9 @@ fsrc/main/java/org/velazquez/U9_bases_de_datos/EjerciciosRecuperacion/tarea_1/ej
 _src/main/java/org/velazquez/U9_bases_de_datos/EjerciciosRecuperacion/tarea_2/CustomerModel.java,a\d\ada7035c709391ca589ddad91776de1fb1c590e1
 Œ
 \src/main/java/org/velazquez/U9_bases_de_datos/EjerciciosRecuperacion/tarea_2/OrderModel.java,f\c\fc907551b31f5ffa231ee31ac69b5d66ce11b876
+Ž
+^src/main/java/org/velazquez/U9_bases_de_datos/EjerciciosRecuperacion/tarea_2/OrderDetails.java,9\5\95e16bbb9162e853e3d7ded6bb5a61216badf372
+Š
+Zsrc/main/java/org/velazquez/U9_bases_de_datos/EjerciciosRecuperacion/tarea_2/Customer.java,d\e\de9002b21cd2787f854533f67f0884cb5e77ae60
+‹
+[src/main/java/org/velazquez/U9_bases_de_datos/EjerciciosRecuperacion/tarea_2/Consultas.java,6\4\643aa3ff7ff726fdf99f4ed1d4aac24b6da837e2

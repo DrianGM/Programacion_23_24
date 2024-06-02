@@ -1,5 +1,7 @@
 
 ¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×Ú±šûÿÿÿÿ8Ğóôğû1J$4d03ba14-0fd7-4593-9b70-c77c1be5d8da
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÓÁ ÿÿÿÿÿ8®Ï¼Óı1
 •	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ô¬æóÿÿÿÿÿ8¼õôğû1J$d6d3c18d-2d4e-4d6b-b91a-404980f9fbb4
 b
 java:S6905"Don't use the query "SELECT *".(‹ô‘Ø8¼õôğû1J$912a5ff5-6874-4cc9-a983-adda121a7de0

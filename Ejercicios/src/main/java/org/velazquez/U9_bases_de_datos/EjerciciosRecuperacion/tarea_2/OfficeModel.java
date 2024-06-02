@@ -1,7 +1,5 @@
 package org.velazquez.U9_bases_de_datos.EjerciciosRecuperacion.tarea_2;
 
-import org.velazquez.U9_bases_de_datos.tarea_2.Employee;
-
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
@@ -25,23 +23,21 @@ public class OfficeModel {
             statement.setString(8,office.getPostalCode());
             statement.setString(9,office.getTerritory());
 
-            String officeCode = office.getOfficeCode();
             statement.executeUpdate();
 
             for (Employee employee : empleados) {
-                statement = con.prepareStatement("INSERT INTO empleados VALUES (?,?,?,?,?,?,?,?)");
+                statement = con.prepareStatement("INSERT INTO employees VALUES (?,?,?,?,?,?,?,?)");
                 statement.setInt(1, employee.getEmployeeNumber());
                 statement.setString(2, employee.getLastName());
                 statement.setString(3, employee.getFirstName());
                 statement.setString(4, employee.getExtension());
                 statement.setString(5, employee.getEmail());
-                statement.setString(6, officeCode);
+                statement.setString(6, office.getOfficeCode());
                 statement.setInt(7, employee.getReportsTo());
                 statement.setString(8,employee.getJobTitle());
                 statement.executeUpdate();
             }
 
-            statement.executeUpdate();
         } catch (SQLException e) {
             e.printStackTrace();
         }

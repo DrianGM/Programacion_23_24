@@ -1,7 +1,6 @@
 
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö¼õßşÿÿÿÿJ$f60a99e7-47de-4a90-a20f-cf83eedee372
-
-java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÓÁ ÿÿÿÿÿJ$cb3fa176-c8a1-426a-856e-a07afd463a4b
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö¼õßşÿÿÿÿJ$2706554f-20ca-4211-b63f-6f2a20772df3
+q
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÓÁ ÿÿÿÿÿ8ğ»Çı1
 v
-java:S1118
-":Add a private constructor to hide the implicit public one.(¹È±¯J$de880f53-9fc3-44cd-878a-772381254c5a
+java:S1118	":Add a private constructor to hide the implicit public one.(¹È±¯J$71002b3d-f267-462c-8c55-589b846ad60d

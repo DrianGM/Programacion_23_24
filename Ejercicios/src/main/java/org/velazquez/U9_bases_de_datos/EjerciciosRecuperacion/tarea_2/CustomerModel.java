@@ -1,7 +1,6 @@
 package org.velazquez.U9_bases_de_datos.EjerciciosRecuperacion.tarea_2;
 
 import org.velazquez.U9_bases_de_datos.EjerciciosRecuperacion.tarea_1.ejercicio_3.ConexionBD;
-import org.velazquez.U9_bases_de_datos.EjerciciosRecuperacion.tarea_1.ejercicio_4.Customer;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -9,7 +8,7 @@ import java.sql.SQLException;
 
 public class CustomerModel {
 
-    public static void insertarClientes(Customer customer){
+    public static void insertarClientes(Customer customer, Employee employee){
         Connection con = ConexionBD.getConnection();
         try {
             String sql = "INSERT INTO customers VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?)";
@@ -26,7 +25,7 @@ public class CustomerModel {
             statement.setString(9,customer.getState());
             statement.setString(10,customer.getPostalCode());
             statement.setString(11,customer.getCountry());
-            statement.setInt(12,customer.getSalesRepEmployeeNumber());
+            statement.setInt(12,employee.getEmployeeNumber());
             statement.setDouble(13,customer.getCreditLimit());
 
             statement.executeUpdate();

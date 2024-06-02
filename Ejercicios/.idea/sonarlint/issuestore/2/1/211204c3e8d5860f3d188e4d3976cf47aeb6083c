@@ -1,9 +1,10 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö¼õßşÿÿÿÿ8¾şü1J$b5855369-11fa-4013-891a-f8ffcd0940b7
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö¼õßşÿÿÿÿ8¾şü1J$f0797ed5-b5cc-4ea4-8d16-1684767423d8
+—
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÓÁ ÿÿÿÿÿ8Ã¤÷Æı1J$72cf5716-cbf3-43c6-bf46-494771c232a0
+—
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¦Ö˜—ÿÿÿÿÿ8Ã¤÷Æı1J$c0d4d727-08c2-4eca-8a0e-569186f5c500
 ‚
-java:S1118
-":Add a private constructor to hide the implicit public one.(ÏÄ³Åüÿÿÿÿ8¾şü1J$9b630368-bfb6-4805-8764-776b0964a938
-~
-java:S6909&"<Move this loop-invariant setter invocation out of this loop.(€Ÿ•78š¾şü1J$d4257f9a-7669-4c5f-8a80-68173165e26c
+java:S1118":Add a private constructor to hide the implicit public one.(ÏÄ³Åüÿÿÿÿ8¾şü1J$72ca493a-71d3-4fcf-a853-3c587d4cd18c
 ™
-java:S6912)"VUse "addBatch" and "executeBatch" to execute multiple SQL statements in a single call.(¨å“Š8¤¾şü1J$33dcf88b-5032-49f3-a3c9-5e0082dd5387
+java:S6912&"VUse "addBatch" and "executeBatch" to execute multiple SQL statements in a single call.(¨å“Š8Í…›Çı1J$b9b4d541-8aab-4031-abed-add8425271a2
