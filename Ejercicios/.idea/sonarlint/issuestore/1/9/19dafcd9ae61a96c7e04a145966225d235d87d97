@@ -1,0 +1,22 @@
+
+	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΑΐφΥÿÿÿÿÿJ$cc343115-e372-40e3-b45e-30c01fd8ac61
+G	java:S106"+Replace this use of System.out by a logger.(ζ™ΞΣ8¬άωθύ1
+L	java:S106"+Replace this use of System.out by a logger.(Ήμΐϋÿÿÿÿ8¬άωθύ1
+G	java:S106"+Replace this use of System.out by a logger.(Ις»8¬άωθύ1
+L	java:S106"+Replace this use of System.out by a logger.( µΒξψÿÿÿÿ8¬άωθύ1
+G	java:S106"+Replace this use of System.out by a logger.(ηΩ¨α8¬άωθύ1
+L	java:S106!"+Replace this use of System.out by a logger.(‘³ÿÿÿÿÿ8¬άωθύ1
+X
+java:S6437$"6Revoke and change this password, as it is compromised.(ήΤ‰Έÿÿÿÿÿ8¬άωθύ1
+G	java:S106'"+Replace this use of System.out by a logger.(Ϋώ†ώ8¬άωθύ1
+G	java:S106-"+Replace this use of System.out by a logger.(υψ—ύ8¬άωθύ1
+G	java:S1063"+Replace this use of System.out by a logger.(χΓ8¬άωθύ1
+G	java:S1069"+Replace this use of System.out by a logger.(ΌΎΙΥ8¬άωθύ1
+G	java:S106G"+Replace this use of System.out by a logger.(΅ζόΎ8¬άωθύ1
+G	java:S106J"+Replace this use of System.out by a logger.( ϊ€Ν8¬άωθύ1
+A
+java:S6905O"Don't use the query "SELECT *".(Ξ€ƒΪÿÿÿÿÿ8Όάωθύ1
+A
+java:S6905Y"Don't use the query "SELECT *".(£λ–Ρόÿÿÿÿ8Όάωθύ1
+A
+java:S6905c"Don't use the query "SELECT *".(£λ–Ρόÿÿÿÿ8Όάωθύ1

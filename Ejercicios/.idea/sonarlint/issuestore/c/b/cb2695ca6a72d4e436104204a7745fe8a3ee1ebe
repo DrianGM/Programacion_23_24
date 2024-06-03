@@ -1,0 +1,20 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÏÙÂþùÿÿÿÿ8éÝºéý1J$a656a763-fe0f-4e2e-923a-0769141286bd
+“	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«–¿Ç8™øœéý1J$6fdf2368-5694-4847-bcc7-cfa5746c2a1a
+˜	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„×Æ‚þÿÿÿÿ8¬ª¡éý1J$5d1bc744-6ffb-411a-a924-d7f7d2dbb7b0
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÁÀöÕÿÿÿÿÿ8™øœéý1J$9149feba-8cc1-42fd-92f7-e1035d707bb1
+‚
+java:S1118	":Add a private constructor to hide the implicit public one.(¶µ™Àüÿÿÿÿ8™øœéý1J$c3ebb0e2-8d6c-4e37-94dd-f75825660e28
+^
+java:S36263"Remove this redundant jump.(ûÁÝ…8±÷¸éý1J$358ff52e-92ed-4e60-9a67-0c1ac807ee2d
+m	java:S106"+Replace this use of System.out by a logger.(æ™ÎÓ8Èøœéý1J$5d9e4ba6-dad3-4bd4-a509-0fcbb0f693e5
+r	java:S106 "+Replace this use of System.out by a logger.(ª‰­°ýÿÿÿÿ8ê±Ÿéý1J$5497371b-6e22-435d-9c45-ed9ee389b779
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Û‘Æçþÿÿÿÿ8øÝºéý1J$602e5e2b-5c7c-4502-8606-ba3e20c2579b
+m	java:S106+"+Replace this use of System.out by a logger.(Ûþ†þ8ƒ“¦éý1J$67f885d5-4555-49cd-a20d-a5645064b1bb
+m	java:S106-"+Replace this use of System.out by a logger.(“—è8±÷¸éý1J$d32bd1d8-99f8-40e2-acfc-c7a09cd0d803
+m	java:S1062"+Replace this use of System.out by a logger.(õø—ý8øÝºéý1J$5e91ef96-2c0a-48ad-987b-b62f05371161
+m	java:S1065"+Replace this use of System.out by a logger.(£«¾þ8äè»éý1J$0d0da7aa-736d-44e9-a44d-d6941e52e1d0
+b
+java:S6905@"Don't use the query "SELECT *".(Á’—8ôíŸéý1J$52986a2a-6d2f-444b-9a78-66ad1919858b
+g
+java:S6905J"Don't use the query "SELECT *".(†¸–ƒøÿÿÿÿ8ñÔ¹éý1J$41b0c067-c8a4-4b11-a72b-203d21ea13de

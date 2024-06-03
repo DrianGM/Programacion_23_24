@@ -1,0 +1,7 @@
+
+”	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( üÛ,J$62db946a-3f86-415a-a978-7e993f5d7a1f
+v
+java:S1118":Add a private constructor to hide the implicit public one.(›£­¼J$421c54c5-4775-4c61-99e3-31c183ebcfe4
+k	java:S106"+Replace this use of System.out by a logger.(ÕÄâıÿÿÿÿJ$4c0a0543-c302-447f-bc7d-2a9a32f7c459
+f	java:S106"+Replace this use of System.out by a logger.(¥Ä–¯J$3aea64eb-bdbd-49fd-b539-297e2e5c06b8
+Œsecrets:S6703"HMake sure this database password gets changed and removed from the code.(¬Ø„ÀşÿÿÿÿJ$d42be687-f249-4efc-b2cc-0c2e0da2957d
