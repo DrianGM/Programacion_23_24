@@ -1,15 +1,15 @@
 
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÒù˜øÿÿÿÿ8„¸İçı1J$6a754fcb-b002-43af-829a-3e22545e08fe
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ì›ñøÿÿÿÿ8„¸İçı1J$3171659e-ed3f-4cb9-9988-99d15141a9fd
-˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÌš˜ûÿÿÿÿ8„¸İçı1J$80ed2f2f-5c8f-4532-abca-420af80114d9
-˜	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó¹Éêûÿÿÿÿ8…¸İçı1J$7397f05d-dff8-4d87-9d9d-330d81329f59
-˜	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šïíşÿÿÿÿ8ˆ·ßçı1J$6edfba47-21ac-44e3-aa2c-7a26dfdda3b1
-›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( üÛ,8…¸İçı1J$2108bd92-567c-4db9-be64-4d08e0a96e1d
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÒù˜øÿÿÿÿ8„¸İçı1J$4abef3cd-3ada-41c3-9979-6af994d823dd
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ì›ñøÿÿÿÿ8„¸İçı1J$af1d4d9c-8003-411c-af3a-b2825e16be8c
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÌš˜ûÿÿÿÿ8„¸İçı1J$a0d2fd44-cbc3-4bb7-bf60-c80ab91eb028
+˜	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó¹Éêûÿÿÿÿ8…¸İçı1J$3844937d-5e00-4f3b-9081-99a50f232332
+˜	java:S1171"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šïíşÿÿÿÿ8ˆ·ßçı1J$eeda1e96-6d19-434e-b0f0-6251f88bd388
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( üÛ,8…¸İçı1J$1e183cb0-5ead-4a6e-85d5-2efffed7c347
 —
-java:S2095-"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÓÁ ÿÿÿÿÿ8…¸İçı1J$f340d2ec-b74a-47ec-bf33-36412f4600f7
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÓÁ ÿÿÿÿÿ8Îàçı1J$843bd6cf-0099-4925-8b5d-f52b1f6897ca
 —
-java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÓÁ ÿÿÿÿÿ8Îàçı1J$eb75cbee-2f1f-4e87-80d5-f509777b6c26
+java:S2095-"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÓÁ ÿÿÿÿÿ8…¸İçı1J$1631bf94-b791-4372-b5ba-e44221e527a4
 g
-java:S6905"Don't use the query "SELECT *".(¬ÔäÇûÿÿÿÿ8‡¸İçı1J$51be2f96-06a0-45d6-8932-bdfb8e983a8f
+java:S6905"Don't use the query "SELECT *".(¬ÔäÇûÿÿÿÿ8‡¸İçı1J$349dcbe2-c1f0-4dcf-a5a3-084939935d65
 g
-java:S6905,"Don't use the query "SELECT *".(½Ê£Ÿûÿÿÿÿ8‰¸İçı1J$36ce4fe2-56bb-44b7-ac1d-abc1e87174a4
+java:S6905,"Don't use the query "SELECT *".(½Ê£Ÿûÿÿÿÿ8‰¸İçı1J$73e090a9-c72e-40b8-8162-e8b15b7c49fd

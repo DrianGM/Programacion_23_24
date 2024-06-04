@@ -1,0 +1,9 @@
+
+“	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î«îª8Š´ÿ’ş1J$dba1b6e2-94eb-468f-889f-873aaa26bfb7
+˜	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¸´•ÿÿÿÿÿ8Š´ÿ’ş1J$ace0ecfe-bcc9-4d8c-af70-e0c1bdcab787
+˜	java:S117>"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡²„Éûÿÿÿÿ8ˆ°ƒ“ş1J$ce579dd3-a1e6-40a8-a94d-dfb7efa1e8ce
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éÌƒ×şÿÿÿÿ8Š´ÿ’ş1J$5c7b0f11-302b-487d-b7bc-1ea972df2420
+—
+java:S2095@"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÓÁ ÿÿÿÿÿ8ˆ°ƒ“ş1J$fab6c612-919e-47c7-9e05-b942906cdd15
+g
+java:S6905$"Don't use the query "SELECT *".(àÊ®äÿÿÿÿÿ8š´ÿ’ş1J$82490550-e19a-47b7-b706-524d3ee6ad69

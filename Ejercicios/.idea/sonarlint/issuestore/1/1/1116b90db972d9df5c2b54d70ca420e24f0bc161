@@ -1,0 +1,18 @@
+
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ëÖ°úÿÿÿÿJ$ee049244-0052-4b91-a0ad-a7637e3b0a3b
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ëÖ°úÿÿÿÿJ$fe94d84f-538b-4c13-bb8d-e6a9d15a0ff7
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›ëÖ°úÿÿÿÿJ$d9833ac1-5afa-4351-bedf-cfe5f61e29c0
+Œ	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘è‡ŠJ$84184910-1474-42c2-b352-632686bdad73
+‘	java:S117@"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÎæüúÿÿÿÿJ$81919298-cd16-4ae3-b4ab-e04cf5c91773
+Œ	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ñòŠJ$96da1307-ca3b-4987-afac-a070361b945e
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(éÌƒ×şÿÿÿÿJ$247e90a6-b569-4e07-b4e4-eccd495bf38a
+Œ	java:S116"QRename this field "emp_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´âÇJ$cf65eb79-a2f4-4599-b226-eda4effc6410
+”	java:S116"TRename this field "fecha_alt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹åí‘ıÿÿÿÿJ$200c3e55-ccf1-431d-8b06-e95a12d9484e
+	java:S116"URename this field "dep_numero" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÄÔÊJ$ec95b51f-79fc-4ec4-8d90-37230f12e87f
+	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(›ëÖ°úÿÿÿÿJ$d81f3dc2-9be9-4e4c-80e5-4bfca40d5bfc
+‰	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼”Ä–J$4b848f30-5076-4a37-86c8-81e6e9faf594
+‰	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘è‡ŠJ$3064c214-4c10-4f2d-b5fd-5755698bf10a
+‰	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ÉÆêJ$310fd75b-f2c4-4d3e-b307-7ffb00caebfb
+	java:S100@"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÎæüúÿÿÿÿJ$8f8394a6-c8ef-402b-9a55-6c1437192cc2
+	java:S100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œñ¢ÊøÿÿÿÿJ$8f62bfef-a62e-4bb5-b83e-0be05545ae35
+‰	java:S100X"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ñòŠJ$19324f32-6c81-452c-8671-5b7954527a4e

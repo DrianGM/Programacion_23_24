@@ -1,0 +1,22 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÁÀöÕÿÿÿÿÿJ$5c5839b8-c6df-44bf-b2e4-bfc030b82ed2
+f	java:S106"+Replace this use of System.out by a logger.(æ™ÎÓJ$8a73ec40-d124-4222-a0e1-ca93af6847ad
+k	java:S106"+Replace this use of System.out by a logger.(¹ìÀûÿÿÿÿJ$28efceb0-441d-455f-9d78-ae38c45439d5
+f	java:S106"+Replace this use of System.out by a logger.(ŠÉò»J$b8e946d0-49ed-4c2b-921c-c370ee772d76
+k	java:S106"+Replace this use of System.out by a logger.( µÂîøÿÿÿÿJ$e642b72d-ec24-4629-80b2-4e921f61ebfb
+f	java:S106"+Replace this use of System.out by a logger.(çÙ¨áJ$4b4df0fd-3c93-4b6e-bba5-eb28fec247ae
+k	java:S106!"+Replace this use of System.out by a logger.(‘³ÿÿÿÿÿJ$b3d22db7-3906-4fce-90a2-7b8141829e7b
+w
+java:S6437$"6Revoke and change this password, as it is compromised.(ŞÔ‰¸ÿÿÿÿÿJ$c753d6ad-7062-4b22-8bce-a5dcc932f26e
+f	java:S106'"+Replace this use of System.out by a logger.(Ûş†şJ$8fd4ff48-6253-412d-9520-32612a09e87e
+f	java:S106-"+Replace this use of System.out by a logger.(õø—ıJ$44d6339f-c206-4751-abfc-708d970ced0b
+f	java:S1063"+Replace this use of System.out by a logger.(Œ÷ÃJ$98f7ce19-b32a-48a9-9177-591173ef3a12
+f	java:S1069"+Replace this use of System.out by a logger.(¼¾ÉÕJ$31b257a5-50a6-4e3f-91b4-a786137db528
+f	java:S106G"+Replace this use of System.out by a logger.(¡æü¾J$105c9c81-7abb-4bdb-9725-34b20e47c68f
+f	java:S106J"+Replace this use of System.out by a logger.( ú€ÍJ$d0766c7b-4270-4ce5-b740-c4f32706ceb1
+`
+java:S6905O"Don't use the query "SELECT *".(Î€ƒÚÿÿÿÿÿJ$0a085a57-e12c-4a99-b03a-bbdfd3a8f16a
+`
+java:S6905Y"Don't use the query "SELECT *".(£ë–ÑüÿÿÿÿJ$8a1187ad-e411-405a-a90a-a408bd1841f5
+`
+java:S6905c"Don't use the query "SELECT *".(£ë–ÑüÿÿÿÿJ$7ef36ede-3420-437d-90d7-b7e628e6ba35
