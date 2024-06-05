@@ -1,9 +1,9 @@
 
 ¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ö¼õßşÿÿÿÿ8ÁÆÓı1J$4df0a63f-ae54-4180-b417-9b16a0f22df7
 —
-java:S2095("OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÓÁ ÿÿÿÿÿ8šºâÓı1J$3581ccde-9762-4f7a-948e-68dfcbf61586
-—
 java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÓÁ ÿÿÿÿÿ8˜ÑÏÓı1J$ea501909-13a5-471f-8989-f4da15993cc2
+—
+java:S2095("OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÓÁ ÿÿÿÿÿ8šºâÓı1J$3581ccde-9762-4f7a-948e-68dfcbf61586
 m	java:S106"+Replace this use of System.out by a logger.(¤Ñ…ñ8ÁÆÓı1J$01c6e843-3f54-4f41-8ac9-67f2d5bc6e57
 r	java:S106"+Replace this use of System.out by a logger.(´Ü©«øÿÿÿÿ8ÁÆÓı1J$ad3e1782-dc52-4462-8a7b-22289f2a640c
 m	java:S106"+Replace this use of System.out by a logger.(íÛº8ÙŠÉÓı1J$9c1f3d0f-32ae-4904-b7bf-9c2950a399fd

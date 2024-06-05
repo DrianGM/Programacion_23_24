@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(İ¦¡‘
+j
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÓÁ ÿÿÿÿÿ
+j
+java:S2095!"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¦Ö˜—ÿÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ÏÄ³Åüÿÿÿÿ
+l
+java:S6912*"VUse "addBatch" and "executeBatch" to execute multiple SQL statements in a single call.(¨å“Š

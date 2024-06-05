@@ -1,22 +1,22 @@
 
-Ψ
-java:S1192-"Define a constant instead of duplicating this literal "------------------------------------------------------------------------------" 3 times.(θΜΔµόÿÿÿÿ8›ησφ1J$47587ac1-a8f4-4fdf-9b9b-5d614cce7c37
 	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Τ‚ÿξϋÿÿÿÿ8›ησφ1J$d951533b-4488-433f-95d7-4b029e34bb97
 	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Τ‚ÿξϋÿÿÿÿ8›ησφ1J$9c446cb7-4a78-4613-9163-470af0425d63
 ™	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Τ‚ÿξϋÿÿÿÿ8›ησφ1J$1c51b6c7-3a35-4a5c-b5ec-0a6e7817a6d7
 ΅	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΦΆΦεόÿÿÿÿ8›ησφ1J$95a222d7-8468-4c91-8f7b-c27645027249
-’
-java:S2095}"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(•΅Ζ€8Ωησφ1J$c94b4020-2071-41ad-aafe-54d8ac09977b
+Ψ
+java:S1192-"Define a constant instead of duplicating this literal "------------------------------------------------------------------------------" 3 times.(θΜΔµόÿÿÿÿ8›ησφ1J$47587ac1-a8f4-4fdf-9b9b-5d614cce7c37
+—
+java:S2095T"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Β²βωÿÿÿÿ8Ωησφ1J$cee2cc91-5638-460a-817b-a30f1ce7663b
 —
 java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(€¦πκύÿÿÿÿ8Ωησφ1J$b1837e57-4904-462f-adca-4201fe5ceed3
 —
 java:S2095K"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ΈΈΒΥώÿÿÿÿ8Ωησφ1J$9ff7d3d8-1371-4925-8882-366552496037
 ’
 java:S2095&"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ψΕώ®8Ωησφ1J$10807880-2f68-4166-8296-b4a53bfd91d0
-—
-java:S2095T"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Β²βωÿÿÿÿ8Ωησφ1J$cee2cc91-5638-460a-817b-a30f1ce7663b
 
 java:S2095†"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(–υ‚ϊÿÿÿÿ8Ωησφ1J$9b42a74d-b19d-446c-bac6-f276c7b15528
+’
+java:S2095}"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(•΅Ζ€8Ωησφ1J$c94b4020-2071-41ad-aafe-54d8ac09977b
 ~	java:S125"<This block of commented-out lines of code should be removed.(ζϋΌρ8Ωησφ1J$c40980e3-ae1b-4ffe-b6b8-a10d6a6764a1
 	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨½Σ8Τι„υφ1J$74bb584e-b6a1-47f1-ab71-036efaafd7f3
 r	java:S106"+Replace this use of System.out by a logger.(υ—‡Ήϊÿÿÿÿ8Ψι„υφ1J$9eee2a88-2d37-4140-85be-9371ef81b06b
